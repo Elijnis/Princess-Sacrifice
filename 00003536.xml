@@ -1,0 +1,3626 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<LMScript Name="00003536.lsb">
+	<Header Version="117" Flag="1">
+		<Properties>
+			<Property Id="0">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="1">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="2">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="3">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="4">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="5">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="6">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="7">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="8">7f 7f 00 28 fc 8b 00 00 80 00 01 00 88 00 f2 00 40 00 bf 00 18 00</Property>
+			<Property Id="9">9f 78 00 ac fc 9f 00 00 80 00 01 01 98 80 f3 00 50 00 bf 00 98 07</Property>
+			<Property Id="10">7b f8 7d 0e ff cb 00 00 00 00 07 00 a8 00 f2 00 00 e0 bf 01 20 00</Property>
+			<Property Id="11">01 00 00 0c 02 00 00 00 80 00 00 00 00 00 00 00 00 00 80 00 00 00</Property>
+			<Property Id="12">9f 78 00 fc fc 9b 00 00 80 00 01 00 98 80 f3 00 50 08 ff 40 80 03</Property>
+			<Property Id="13">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="14">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="15">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="16">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="17">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="18">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="19">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="20">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="21">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="22">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="23">1f 70 00 38 fc 9b 00 00 80 00 01 00 88 00 f2 00 40 08 bf 40 00 00</Property>
+			<Property Id="24">9f f8 0f aa fc 8b 24 00 80 00 01 00 98 00 f2 00 50 00 bf 00 80 03</Property>
+			<Property Id="25">1b 9f ef 0f fc 83 fe ff ff 3f 01 00 8a 03 f2 00 c0 e1 bf 1e 00 00</Property>
+			<Property Id="26">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="27">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="28">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="29">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="30">9f f8 0b 8a 0e 8c 04 00 80 00 f9 01 98 80 f3 00 70 00 bf 00 98 07</Property>
+			<Property Id="31">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="32">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="33">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="34">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="35">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="36">7f 78 00 0c fc 93 00 00 00 00 01 f0 c9 00 f2 01 40 00 bf 00 00 00</Property>
+			<Property Id="37">9b 70 00 08 fc 83 00 00 00 00 01 0e 98 00 f2 00 50 00 bf 00 00 03</Property>
+			<Property Id="38">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="39">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="40">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="41">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="42">05 00 00 7c 00 18 00 00 80 00 00 00 00 00 00 00 00 08 80 40 04 00</Property>
+			<Property Id="43">7b e1 0b 08 02 80 04 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="44">7b e1 0b 08 02 80 24 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="45">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="46">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="47">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="48">1f 78 00 08 fc 87 00 00 80 03 09 00 88 07 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="49">7b 70 00 0c fc 83 00 00 00 00 01 00 88 18 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="50">ff 18 00 08 fc 87 00 00 00 00 01 00 88 e0 ff 00 50 00 bf 00 18 03</Property>
+			<Property Id="51">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 80 01 bf 20 00 04</Property>
+			<Property Id="52">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 81 01 bf 20 00 04</Property>
+			<Property Id="53">1f 78 00 0c fc 83 00 00 00 00 01 00 88 00 f2 79 00 02 bf 20 00 00</Property>
+			<Property Id="54">1f 78 04 08 fc 83 24 00 00 00 01 00 88 00 f2 00 4e 00 bf 00 00 00</Property>
+			<Property Id="55">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="56">1f 70 00 08 00 88 00 00 80 03 01 00 08 03 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="57">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="58">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="59">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="60">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="61">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="62">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="63">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+		</Properties>
+	</Header>
+	<Body>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="0" Diff="0">
+			<Label Script="00003536.lsb" Target="3" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1" Diff="1">
+			<SetLabel>変数削除</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="2" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="3" Diff="1">
+			<SetLabel>00003537</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="4" Diff="1">
+			<Label Script="00003536.lsb" Target="14" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="5" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="6" Diff="1">
+			<SetLabel>00003538</SetLabel>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="7" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="8" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">25</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Var Name="">____d_2</Var>
+				</Param>
+				<Param Name="____0" Calc="Max" Type="11">
+					<Var Name="">____1</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">25</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="9" Diff="1">
+			<Label Script="00003536.lsb" Target="96" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">アイテム設定</Var>
+					<Int Name="">0</Int>
+					<Int Name="">246</Int>
+				</Param>
+				<Param Name="____3" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____5" Calc="" Type="16">
+					<Var Name="">____d_1</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____6" Calc="" Type="8">
+					<Var Name="">____5</Var>
+					<Var Name="">____3</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____6</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="10" Diff="1">
+			<Label Script="00003536.lsb" Target="12" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="11" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="12" Diff="1">
+			<SetLabel>00003539</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="13" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="14" Diff="1">
+			<SetLabel>0000353A</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="15" Diff="1">
+			<Label Script="00003536.lsb" Target="86" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="16" Diff="1">
+			<Label Script="00003536.lsb" Target="19" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">25</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="17" Diff="1">
+			<Label Script="00003536.lsb" Target="56" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="18" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="19" Diff="1">
+			<SetLabel>0000353B</SetLabel>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="20" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">選択実行中</Var>
+				</Param>
+				<Param Name="____3" Calc="GetProp" Type="11">
+					<Var Name="">____1</Var>
+					<Int Name="">138</Int>
+				</Param>
+				<Param Name="____4" Calc="GetProp" Type="11">
+					<Var Name="">____0</Var>
+					<Int Name="">81</Int>
+				</Param>
+				<Param Name="____6" Calc="" Type="7">
+					<Var Name="">____4</Var>
+					<Var Name="">____3</Var>
+				</Param>
+				<Param Name="____7" Calc="" Type="8">
+					<Var Name="">____6</Var>
+					<Var Name="">____2</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____7</Var>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="21" Diff="1">
+			<Array Name="Calc">
+				<Param Name="選択実行中" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="22" Diff="1">
+			<Str Name="Name">_tmp</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal"></Array>
+			<Byte Name="Scope">2</Byte>
+		</Item>
+		<Item Command="VarNew" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="23" Diff="1">
+			<Str Name="Name">_tmpno</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal"></Array>
+			<Byte Name="Scope">2</Byte>
+		</Item>
+		<Item Command="VarNew" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="24" Diff="1">
+			<Str Name="Name">_tmpid</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal"></Array>
+			<Byte Name="Scope">2</Byte>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="25" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">View initial event</Str>
+				</Param>
+				<Param Name="____1" Calc="AddArray" Type="11">
+					<Var Name="">_tmp</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="26" Diff="1">
+			<Array Name="Calc">
+				<Param Name="_tmpno" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="27" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____1" Calc="AddDelimiter" Type="11">
+					<Var Name="">____0</Var>
+					<Var Name="">_tmpid</Var>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____1</Var>
+					<Var Name="">_tmpno</Var>
+				</Param>
+				<Param Name="_tmpid" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="28" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">Summary (Click RMB)</Str>
+				</Param>
+				<Param Name="____1" Calc="AddArray" Type="11">
+					<Var Name="">_tmp</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="29" Diff="1">
+			<Array Name="Calc">
+				<Param Name="_tmpno" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____1" Calc="AddDelimiter" Type="11">
+					<Var Name="">____0</Var>
+					<Var Name="">_tmpid</Var>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____1</Var>
+					<Var Name="">_tmpno</Var>
+				</Param>
+				<Param Name="_tmpid" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="31" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="TrimArray" Type="11">
+					<Var Name="">_tmp</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____1" Calc="ArrayToString" Type="11">
+					<Var Name="">_tmp</Var>
+				</Param>
+				<Param Name="____2" Calc="" Type="20">
+					<Var Name="">____1</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="33" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="34" Diff="1">
+			<Label Script="ノベルシステム\選択メニュー\■選択実行.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="ArrayToString" Type="11">
+						<Var Name="">_tmp</Var>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+				<Array Name="__ARG_1__">
+					<Param Name="____arg" Calc="" Type="1">
+						<Flag Name="">TRUE</Flag>
+					</Param>
+				</Array>
+				<Array Name="__ARG_2__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">C</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+				<Array Name="__ARG_3__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">C</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+				<Array Name="__ARG_4__">
+					<Param Name="____arg" Calc="" Type="1">
+						<Int Name="">0</Int>
+					</Param>
+				</Array>
+				<Array Name="__ARG_5__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">サウンド\効果音\[sistem]01.ogg</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+				<Array Name="__ARG_6__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">サウンド\効果音\[sistem]02.ogg</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+				<Array Name="__ARG_7__">
+					<Param Name="____arg" Calc="" Type="1">
+						<Int Name="">1</Int>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="35" Diff="1">
+			<Array Name="Calc">
+				<Param Name="選択実行中" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="36" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="StringToArray" Type="11">
+					<Var Name="">_tmpid</Var>
+					<Var Name="">_tmpid</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="37" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">選択番号</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="3" Mute="0" NotUpdate="1" Color="0" Id="38" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">_tmpid</Var>
+					<Var Name="">選択番号</Var>
+				</Param>
+				<Param Name="選択番号" Calc="" Type="1">
+					<Var Name="">____d_0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Else" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="39" Diff="1"></Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="40" Diff="1">
+			<Array Name="Calc">
+				<Param Name="選択値" Calc="" Type="1">
+					<Var Name="">_tmp</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="41" Diff="1">
+			<Array Name="Calc">
+				<Param Name="選択番号" Calc="" Type="1">
+					<Var Name="">_tmpno</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="42" Diff="1">
+			<Array Name="Calc">
+				<Param Name="選択実行中" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="43" Diff="1">
+			<Array Name="Calc">
+				<Param Name="右クリックメニュー一時禁止" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Wait" Indent="2" Mute="0" NotUpdate="0" Color="0" Id="45" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____2" Calc="GetProp" Type="11">
+					<Var Name="">____0</Var>
+					<Int Name="">50</Int>
+				</Param>
+				<Param Name="____3" Calc="" Type="20">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="ObjDel" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="46" Diff="1">
+			<Array Name="Name">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">VOICE</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="47" Diff="1">
+			<Str Name="Name">_tmp</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="48" Diff="1">
+			<Str Name="Name">_tmpno</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="49" Diff="1">
+			<Str Name="Name">_tmpid</Str>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="50" Diff="1">
+			<Label Script="00003536.lsb" Target="56" />
+			<Array Name="Calc">
+				<Param Name="____1" Calc="" Type="12">
+					<Var Name="">選択番号</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="51" Diff="1">
+			<Label Script="00003536.lsb" Target="70" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="52" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="53" Diff="1">
+			<SetLabel>0000353C</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="54" Diff="1">
+			<Label Script="00003536.lsb" Target="19" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="55" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
+			<SetLabel>0000353E</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="57" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="58" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面一時消去|$000000|NORMAL|#1|C|B|1010|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="59" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="60" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">全画面</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="61" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="62" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">Excerpt from the Sage Veluna's 'Natural History of Omeras', Vol.4</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……精霊力は世界を正常に運営する力。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　魔力は意思によって世界を変える力だが、実際にはこの二つの差異は</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ほとんどない。力の方向が違うのみである。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　人間は生まれながらに魔力を持つが、通常はこの力を使えない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　だが精霊やある種の魔物との接触は、人間にも魔力を操作する能力を</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">与えてくれる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　または特殊な修行を経ることで、魔力を扱う才能が目覚めることもある。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　そうして生まれた者たちのことを、魔導師や魔女と呼ぶ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　彼らは賢者の島マナリスに集められて修行するが、導師たちの教えを</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">拒否して闇王崇拝に走る者も少なくない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　闇王との契約は強大な魔力が得られると信じられているためである……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|BGM\bgm_evergreen.mid|BGM|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="63" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="64" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">標準透明</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="65" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="66" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|前景|グラフィック\ビジュアル\H画像\25邪教団01.gal|NORMAL|#1|C|B|1000|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(……Nn…………)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Huh……where is……?)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|画面消去,画面一時消去|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"――――――Uh!?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　The experimental body has awakened.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　The constraints take her by surprise.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"So you're awake."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"You guys are……!?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"そんなに怖がる必要はない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　お前の体を使って実験するだけだ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Ex-Experiment……?</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　な――何をする気なんですか……？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　ひどい事……しないで……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"もう遅いな。実験はすでに始まっている"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　クロユリのエキスと濃縮ソムド、人間の精液(我々のものだ)、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">そしてムカシマナオオアオヘビの麻痺毒を３:10:25:１で混合したもの、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">八と二分の一匙を失神中に管を通して経口投与。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　これによって今までの実験体と同様に、全身の発汗、肌の紅潮、陰部湿潤化が</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">起きている。心拍数は投与前と比べると約１．８倍。呼吸数は約１．４倍。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団02.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　発情の兆候だが、確認のため弟子に乳房への愛撫を行わせる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　先端部突起の硬化を確認。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひんっ……！？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　反応良好。第二段階に移る。魔力極を用意させる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　これはバネ仕掛けのクリップと針を組み合わせたような小器具で、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">対象の体の一部を挟んで、針で固定できるようになっている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団01.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ……</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　そ、それで……何を……っ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"これでお前の乳首を挟んでやろう"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひっ……！？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　恐怖からか瞳孔がやや縮小、眼球に激しい動きがある。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"やっ……あ……</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　やめて下さいっ……痛いこと、しないで……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"安心しろ、これは特殊な器具だ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　抵抗すれば苦痛を感じるが、我々の実験を心から受け入れれば、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">それほど痛くない。そういう薬品を飲ませたからだ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　これはただの暗示だが、多くの場合効果を発揮する。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体は首をふって拒否を示しているが、眉の動きからその感情が</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">恐怖と困惑、理解の間を往復していることが見てとれる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　続行可能だと判断し、魔力極を実験体の胸に近づける。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体の視線が器具の先端から離れない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ほんの少し、チクッとするぞ。力を抜け"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ…………っ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\cuffA.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団03.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体の左乳首を、魔力極で挟む。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　バネ仕掛けの針が内部で飛び出し、固定した。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひっ……っ……っ……！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体の体が震え、唇を噛みしめる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　出血はほとんど無い。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ほおら、私の言う通り、大丈夫だっただろう？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　大したことはなかっただろう？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　言うことを受け入れれば、それほどひどい事はしない……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……………………</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……………………………………………………はい……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体はうなずいた。暗示が効いているようだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　しかしその素直さが妙に癇に障ったので、思わず二つ目を右乳首に、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">バネの反発力を利用して、ガチンッ！　と強く取り付けてしまう。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\ChainC.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団04.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"んぎっ……！？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　っ……ひっ……っっっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"おや、大丈夫かな？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　お前に否定的な感情がなければ、痛みを感じない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　気をしっかり持つことだ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　適当に言い含めてから、さらに陰部を開き、淫核の包皮を剥いて、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">そこにも取り付ける……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Uh!?　St-Stop……such a place……!!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\ChainC.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団05.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　It hurts……yaah……agah……!!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　WahEEEEHHHH……eh……!!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体はしばらく暴れてから、ぐったりとした。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　問題は無いようなので、第三段階の用意に移る。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団06.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　魔力極は苦痛を与えるのが目的の物ではない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　快感を与える魔力波を体内に直接流し込むためのものだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　許容量を越えた快楽によって実験体の人格を破壊し、洗脳する……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　この実験はその手法を確立するためのものだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"うっ……う゛っううっ…………。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……もう……やめて……。放して下さい……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　針の鈍痛と心理的ショックから、実験体は涙滴を分泌している。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　感情的な振幅を大きくすることはこの実験に不可欠のものだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"大丈夫だ、すぐに気持ちよくしてやろう"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"そ……そんなの、いりませんっ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"お前の意思は問題ではないなあ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　針から伸びる糸を、瓶に入れた魔力増幅体に繋ぐ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　そして助手たちに呪文の詠唱を開始させる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団07.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　呪文は増幅されて、火花を放ちながら糸と金具を伝って実験体に入り込む。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ！？　あ゛っ……あ゛あ゛あ゛っ……！？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　魔力ショックを受けた実験体はのけぞりながら絶叫した。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　心拍数、呼吸数ともに跳ね上がるが、許容範囲内。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　いったん呪文詠唱を中断させる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団06.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"どうだね？　痛かったか？　それとも気持ち良かったかね？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"はあっ、はあっ……！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"気持ち良いなら、それは性的なものかね？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　１から10で評価するならその快感はいくつだ？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……ひっく……うっ、うううううっ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……呪文再開"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団07.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"んぁああああああああああ゛っあ゛あ゛っ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団06.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　もう一度呪文を止めてから質問を繰り返すと、実験体はようやく</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">人語を話した。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"痛い、のも、あるけど……</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……き、気持ちも、……よかったです……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"その快楽は性的なものかね？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……………………………………………………</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……はい…………"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"１から10の数値で表すと？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……………………"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"早く言いたまえ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…………８……いえ…………６………………"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　観念したように実験体はささやく。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　助手がその発言・羞恥の感情を示す生体反応・分泌液の量などを</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">記録していく。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"では次は、魔力伝達糸を増やそう"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|$000000|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ……ひっ……！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　私の指の間に挟まれた、何本もの針型魔力極を見て、実験体は怯えた……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|REPEAT|700|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団08.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"――ひぃーっ！　あっ、あ゛あ゛っ、んびっひぃいいいいっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　全身の性感帯に刺された魔力極から流れ込む魔力によって、実験体は</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">絶え間ない衝撃と快楽を与えられている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団09.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　さらに性的刺激を強めるため、粘膜摩擦式の器具も追加することにする。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　いったん魔力を止め、ぐったりとした実験体に新器具を見せて、反応を</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">観察することにした。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団10.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"……な……なに……それは…………"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　極太かつイボのついた金属製の張形を、実験体の性器にあてがう。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　対象の恐怖と快楽期待を示す生体反応の数値が跳ね上がった。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"やめ、許しっ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"挿入開始"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\vibA.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団11.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひぃっ……いっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　この張形は機械仕掛けで動くようになっていて、いったん動作開始すると、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">抵抗を無視して無慈悲に貫く。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　特殊合金製ペニスの硬度に、女の肉襞ごときが耐えられるはずがない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"いっ……あっ、あっ……ぁ……！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　冷たいっ……んんっ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　金属製の冷たい張形に、体の中をかき分けられる感覚に耐えているようだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　しかし慣れる間を与えるつもりもなく、さらに可動ピストン機能を起動する。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\vibB.ogg|SE|REPEAT|800|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団12.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ！？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　やあぁっ……ぁっ……っ……</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　ひっ……んがっっ……くぅっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験体は身もだえしながら、激しい抽挿に耐えている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　膣の入口から最奥まで、イボで引っかきながら入り込み、また入口に</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">引き返してまた奥まで犯す動作を、機械ならではの力強さ・非情さで繰り返す。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"んあっ……やっ、これ、イヤっ……止めて……っ！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　強すぎっ……お願、いっ………………！！　ひぁあああっ！？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　必死の哀願にも手を止めず、一切の感情を交えない、数値的に正確な</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">性交を可能とするシステムである。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　肉製のペニスでは不可能な硬度も、対象に絶望的な被侵略感を与えるのに</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">役立っている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"だが、まだ足りない……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　魔力刺激を追加する。呪文詠唱を開始せよ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|REPEAT|700|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団13.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"っ……！！　ぃっ……許して！　許してぇっ……！！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　がっ、んあっ！？</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　ばっ、あぶっんぐががぶぶっっっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　体ごと上下に揺さぶられるような、激しく機械的なピストン運動。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　さらに魔力の刺激が電撃に似た作用をおよぼし、対象の全身の筋肉を</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">痙攣させている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　そのうちに……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|3000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"あ、あ゛あっ、ひぃ、はぁっ、ああぁああああぁぁああーーーーっ！？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\PichaA.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団14.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　ジョロッ……ジョロロロロロロッ……！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　尿道を閉じる筋肉の働きを失って、実験体の股間から尿がほとばしる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　全身を激しく痙攣させ、粗相をしながら実験体は再び絶頂に達した。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"――いやぁっ――！　おしっこ、止まってぇっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"呪文詠唱停止"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団15.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　尿を採取しつつ、私の手を見せながら質問する。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"見えるかね。いま立てている指の数は何本だ？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…………ぁ……ぁ……っ…………</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……はぁっ……ぁ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"わからないかね？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…………い……へ……</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……三本……れす…………"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ふむ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　この時間、この量の快楽を与え続けても理性が残っている。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　尿に濡れた下半身を恥じる羞恥心まであるようだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　これまでの実験体とは違う結果だった。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　実験手順は同一であるから、個体差か。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　その点を見極めるため、魔力増幅体を二瓶追加してから呪文を再開する。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\vibB.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団13.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"やっ……ぁあああああああっっ！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　再び実験体に魔力衝撃が加わり、神経に直接快楽を伝える。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　さらに動作速度を三倍にした機械張形が局部を責めたてる。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひっ、んがっ、んぎっ……ああぁぁぁあああーっ……</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　やめれ、とまっへぇっ……！！　出ちゃうのぉっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\PichaA.ogg|SE2|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団14.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　プシャァッ……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　するとどうしたことか、先ほど放尿したばかりなのに、再び尿が</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ほとばしった。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひぁっ、あっ、んっ……やらぁっ</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　……また、れちゃうからぁっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　呪文の中断と再詠唱を繰り返すたびに、実験体の尿道から液体が発射される。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　最初のものと違い成分は水に近く、量も少ないが、確かに尿だ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団15.gal|NORMAL|1|800|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"面白い結果だ……"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Haah……haah……ah……</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"我々は、快楽によってお前の精神を破壊するつもりだったが……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　どうしたわけか、精神ではなく尿の排出を制御する神経を狂わせてしまった</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">らしい。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　お前の体は、快楽が頂点に達すると、放尿するようになった"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…………Eh…………?</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　う、う……そ…………？"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|281◆◆邪教徒</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","281◆◆邪教徒.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"呪文再開"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|REPEAT|800|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\PichaA.ogg|SE2|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\25邪教団14.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　今までの三倍の魔力を流し込むと、実験体の体は大きく跳ねながら、</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">尿道から大量の尿のしぶきをほとばしらせた。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"――イヤッ……こんなの、嫌ぁあああああっっあああっ！！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　助けてぇえええっ……ぁっんぁっあああああっ</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">っっ</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面消去|グラフィック\背景\背景黒半透明50.gal|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　今回の実験は失敗のようだ。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　この実験体は破棄するしかない。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　我々の性欲処理に使用してから、闇の大精霊の生贄に捧げるとしよう……。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|BGM|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面一時消去|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|画面消去,前景|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="67" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="68" Diff="1">
+			<Label Script="00003536.lsb" Target="6" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="69" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="70" Diff="1">
+			<SetLabel>0000353F</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="71" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="72" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面一時消去|$000000|NORMAL|#1|C|B|1010|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|BGM\bgm_evergreen.mid|BGM|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|前景|グラフィック\ビジュアル\H画像\25邪教団13.gal|NORMAL|#1|C|B|1000|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="73" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="74" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">標準透明</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="75" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="76" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|画面消去,画面一時消去|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\Spark01@08.ogg|SE|REPEAT|700|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ひっ、んががっ、んぶっ……ああぁぁぁあああーっ……</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　やめれ、とまっへぇっ……！！　れちゃうのぉっ……！！"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\PichaA.ogg|SE2|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|前景|グラフィック\ビジュアル\H画像\25邪教団14.gal|NORMAL|#1|C|B|1000|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"――んひぃッ……嫌ぁあああああっっあああっ！！</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">　やめれぇっ、おしっこ、見ないれぇええええっっ……</EventArg>
+				</Event>
+				<Event Command="Img">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str">グラフィック\部品\絵文字\絵文字ハート.gal</EventArg>
+					<EventArg Type="Byte">4</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|BGM|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面一時消去|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|画面消去,前景|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="77" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="78" Diff="1">
+			<Label Script="00003536.lsb" Target="6" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="79" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="80" Diff="1">
+			<SetLabel>00003540</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="81" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="82" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">魔導師系の敵。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="83" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="84" Diff="1">
+			<Label Script="00003536.lsb" Target="12" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="85" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="86" Diff="1">
+			<SetLabel>00003541</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="87" Diff="1">
+			<Label Script="00003536.lsb" Target="80" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">25</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="88" Diff="1">
+			<Label Script="00003536.lsb" Target="53" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="89" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="90" Diff="1">
+			<SetLabel>00003E04</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="91" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="92" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\[sistem]05アップ.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">	Peeing 【Tendency】 obtained!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="93" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="94" Diff="1">
+			<Label Script="00003536.lsb" Target="12" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="95" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="96" Diff="1">
+			<SetLabel>00003E05</SetLabel>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="98" Diff="2">
+			<Label Script="0000122D.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="100" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">Peeing Tendency</Str>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">装備名</Var>
+					<Int Name="">9</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="101" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">アイテム設定</Var>
+					<Int Name="">0</Int>
+					<Int Name="">246</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="102" Diff="1">
+			<Label Script="00003536.lsb" Target="90" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="103" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+	</Body>
+</LMScript>
