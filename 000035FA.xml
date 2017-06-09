@@ -78,7 +78,7 @@
 			</Array>
 		</Item>
 		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1" Diff="1">
-			<SetLabel>•Ï”íœ</SetLabel>
+			<SetLabel>å¤‰æ•°å‰Šé™¤</SetLabel>
 		</Item>
 		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="2" Diff="1">
 			<Array Name="Calc">
@@ -121,7 +121,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="8" Diff="2">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">—§‚¿ŠG•\Ž¦Ý’è</Var>
+					<Var Name="">ç«‹ã¡çµµè¡¨ç¤ºè¨­å®š</Var>
 					<Int Name="">15</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
@@ -132,7 +132,7 @@
 		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="10" Diff="2">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ŠeŽíÝ’è</Var>
+					<Var Name="">å„ç¨®è¨­å®š</Var>
 					<Int Name="">55</Int>
 				</Param>
 				<Param Name="____1" Calc="" Type="16">
@@ -147,7 +147,7 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="11" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____d_2" Calc="" Type="10">
-					<Var Name="">ƒV[ƒ“‰ñ‘zA</Var>
+					<Var Name="">ã‚·ãƒ¼ãƒ³å›žæƒ³A</Var>
 					<Int Name="">7</Int>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -158,7 +158,7 @@
 					<Int Name="">10</Int>
 				</Param>
 				<Param Name="____d_3" Calc="" Type="10">
-					<Var Name="">ƒV[ƒ“‰ñ‘zA</Var>
+					<Var Name="">ã‚·ãƒ¼ãƒ³å›žæƒ³A</Var>
 					<Int Name="">7</Int>
 				</Param>
 				<Param Name="____d_3" Calc="" Type="1">
@@ -208,7 +208,7 @@
 			<Label Script="000035FA.lsb" Target="85" />
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ŠeŽíÝ’è</Var>
+					<Var Name="">å„ç¨®è¨­å®š</Var>
 					<Int Name="">55</Int>
 				</Param>
 				<Param Name="____2" Calc="" Type="15">
@@ -224,7 +224,7 @@
 			<Label Script="000035FA.lsb" Target="19" />
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ƒV[ƒ“‰ñ‘zA</Var>
+					<Var Name="">ã‚·ãƒ¼ãƒ³å›žæƒ³A</Var>
 					<Int Name="">7</Int>
 				</Param>
 				<Param Name="____2" Calc="" Type="15">
@@ -267,13 +267,13 @@
 		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="22" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____2" Calc="Not" Type="11">
-					<Var Name="">‘I‘ðŽÀs’†</Var>
+					<Var Name="">é¸æŠžå®Ÿè¡Œä¸­</Var>
 				</Param>
 				<Param Name="____3" Calc="GetProp" Type="11">
 					<Var Name="">____1</Var>
@@ -308,7 +308,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="23" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‘I‘ðŽÀs’†" Calc="" Type="1">
+				<Param Name="é¸æŠžå®Ÿè¡Œä¸­" Calc="" Type="1">
 					<Flag Name="">TRUE</Flag>
 				</Param>
 			</Array>
@@ -334,7 +334,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="27" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">View initial event</Str>
+					<Str Name="">åˆå›žã‚¤ãƒ™ãƒ³ãƒˆã‚’è¦‹ã‚‹</Str>
 				</Param>
 				<Param Name="____1" Calc="AddArray" Type="11">
 					<Var Name="">_tmp</Var>
@@ -355,7 +355,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="29" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -374,7 +375,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">Summary (Click RMB)</Str>
+					<Str Name="">çœç•¥(å³ã‚¯ãƒªãƒƒã‚¯)</Str>
 				</Param>
 				<Param Name="____1" Calc="AddArray" Type="11">
 					<Var Name="">_tmp</Var>
@@ -395,7 +396,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -446,7 +448,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="36" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\‘I‘ðƒƒjƒ…[\¡‘I‘ðŽÀs.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \é¸æŠžãƒ¡ãƒ‹ãƒ¥ãƒ¼\â– é¸æŠžå®Ÿè¡Œ.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -490,7 +492,7 @@
 				</Array>
 				<Array Name="__ARG_5__">
 					<Param Name="____0" Calc="" Type="1">
-						<Str Name="">ƒTƒEƒ“ƒh\Œø‰Ê‰¹\[sistem]01.ogg</Str>
+						<Str Name="">ã‚µã‚¦ãƒ³ãƒ‰\åŠ¹æžœéŸ³\[sistem]01.ogg</Str>
 					</Param>
 					<Param Name="____arg" Calc="" Type="1">
 						<Var Name="">____0</Var>
@@ -498,7 +500,7 @@
 				</Array>
 				<Array Name="__ARG_6__">
 					<Param Name="____0" Calc="" Type="1">
-						<Str Name="">ƒTƒEƒ“ƒh\Œø‰Ê‰¹\[sistem]02.ogg</Str>
+						<Str Name="">ã‚µã‚¦ãƒ³ãƒ‰\åŠ¹æžœéŸ³\[sistem]02.ogg</Str>
 					</Param>
 					<Param Name="____arg" Calc="" Type="1">
 						<Var Name="">____0</Var>
@@ -513,7 +515,7 @@
 		</Item>
 		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="37" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‘I‘ðŽÀs’†" Calc="" Type="1">
+				<Param Name="é¸æŠžå®Ÿè¡Œä¸­" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -532,7 +534,7 @@
 		<Item Command="If" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="39" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="15">
-					<Var Name="">‘I‘ð”Ô†</Var>
+					<Var Name="">é¸æŠžç•ªå·</Var>
 					<Int Name="">0</Int>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
@@ -544,9 +546,9 @@
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
 					<Var Name="">_tmpid</Var>
-					<Var Name="">‘I‘ð”Ô†</Var>
+					<Var Name="">é¸æŠžç•ªå·</Var>
 				</Param>
-				<Param Name="‘I‘ð”Ô†" Calc="" Type="1">
+				<Param Name="é¸æŠžç•ªå·" Calc="" Type="1">
 					<Var Name="">____d_0</Var>
 				</Param>
 			</Array>
@@ -554,34 +556,34 @@
 		<Item Command="Else" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="41" Diff="1"></Item>
 		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="42" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‘I‘ð’l" Calc="" Type="1">
+				<Param Name="é¸æŠžå€¤" Calc="" Type="1">
 					<Var Name="">_tmp</Var>
 				</Param>
 			</Array>
 		</Item>
 		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="43" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‘I‘ð”Ô†" Calc="" Type="1">
+				<Param Name="é¸æŠžç•ªå·" Calc="" Type="1">
 					<Var Name="">_tmpno</Var>
 				</Param>
 			</Array>
 		</Item>
 		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‘I‘ðŽÀs’†" Calc="" Type="1">
+				<Param Name="é¸æŠžå®Ÿè¡Œä¸­" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
 		</Item>
 		<Item Command="Calc" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="45" Diff="1">
 			<Array Name="Calc">
-				<Param Name="‰EƒNƒŠƒbƒNƒƒjƒ…[ˆêŽž‹ÖŽ~" Calc="" Type="1">
+				<Param Name="å³ã‚¯ãƒªãƒƒã‚¯ãƒ¡ãƒ‹ãƒ¥ãƒ¼ä¸€æ™‚ç¦æ­¢" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="2" Mute="0" NotUpdate="1" Color="0" Id="46" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -593,7 +595,7 @@
 		<Item Command="Wait" Indent="2" Mute="0" NotUpdate="0" Color="0" Id="47" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
 					<Str Name=""></Str>
@@ -644,7 +646,7 @@
 			<Label Script="000035FA.lsb" Target="89" />
 			<Array Name="Calc">
 				<Param Name="____1" Calc="" Type="12">
-					<Var Name="">‘I‘ð”Ô†</Var>
+					<Var Name="">é¸æŠžç•ªå·</Var>
 					<Int Name="">0</Int>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
@@ -682,7 +684,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -690,7 +692,7 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="57" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="0">
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊˆêŽžÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -705,7 +707,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -728,7 +730,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="58" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -767,7 +769,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="62" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -787,7 +789,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -810,7 +812,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="64" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -820,7 +822,7 @@
 			<Array Name="Params"></Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="65" Diff="1">
-			<Label Script="ƒƒbƒZ[ƒWƒ{ƒbƒNƒXì¬.lsb" Target="0" />
+			<Label Script="ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹ä½œæˆ.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -830,7 +832,7 @@
 			<Array Name="Params">
 				<Array Name="__ARG_0__">
 					<Param Name="____0" Calc="" Type="1">
-						<Str Name="">•W€“§–¾</Str>
+						<Str Name="">æ¨™æº–é€æ˜Ž</Str>
 					</Param>
 					<Param Name="____arg" Calc="" Type="1">
 						<Var Name="">____0</Var>
@@ -840,7 +842,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="66" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -848,61 +850,61 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="67" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="1">
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊˆêŽžÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|200|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|”wŒi|ƒOƒ‰ƒtƒBƒbƒN\”wŒi\”wŒiƒx[ƒX.gal|NORMAL|#1|C|C|10|||||</EventArg>
+					<EventArg Type="Str">CREATECG|èƒŒæ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\èƒŒæ™¯\èƒŒæ™¯ãƒ™ãƒ¼ã‚¹.gal|NORMAL|#1|C|C|10|||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|îŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\Ž©‘R\Ž©‘R03XA.gal|NORMAL|#1|36|36|10|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|æƒ…æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\è‡ªç„¶\è‡ªç„¶03æ£®A.gal|NORMAL|#1|36|36|10|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|NPC|ƒOƒ‰ƒtƒBƒbƒN\NPC\’jƒ‚ƒu01\Ž©Œx’c.gal|NORMAL|#1|-120|T|100|||||</EventArg>
+					<EventArg Type="Str">CREATECG|NPC|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\NPC\ç”·ãƒ¢ãƒ–01\è‡ªè­¦å›£.gal|NORMAL|#1|-120|T|100|||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|NPC3|ƒOƒ‰ƒtƒBƒbƒN\NPC\’jƒ‚ƒu01\˜VlA.gal|NORMAL|#1|C|T|120|||||</EventArg>
+					<EventArg Type="Str">CREATECG|NPC3|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\NPC\ç”·ãƒ¢ãƒ–01\è€äººA.gal|NORMAL|#1|C|T|120|||||</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PLAYSND|BGM\DS-ev10.mid|BGM|REPEAT|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‰æ–ÊˆêŽžÁ‹Ž|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cc•ß‚ç‚¦‚ç‚ê‚½Feena‚ÍAX‚Ì’†‚É˜A‚ê‚Ä‚±‚ç‚ê‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦The captured Feena was brought into the forest.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ˆß•ž‚ð’E‚ª‚³‚êA‰Æ’{‚Ì‚æ‚¤‚É–Ø‚ÉŒq‚ª‚ê‚Ä‚µ‚Ü‚¤B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Striped of her clothes, she was fastened to a tree like an animal.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\—§‚¿\•\î\—§‚¿y•\î”ßz”ß‚µ‚Ý.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ç«‹ã¡\è¡¨æƒ…\ç«‹ã¡ã€è¡¨æƒ…æ‚²ã€‘æ‚²ã—ã¿.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚âccB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Noâ€¦â€¦</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ccŒ©‚È‚¢‚Åcc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦don't lookâ€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -911,271 +913,223 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚¤‘i‚¦‚Ä‚àA‘ºl‚½‚¿‚ÍDŠï‚Ì–Ú‚Å—‡‘Ì‚ð’­‚ß‚é‚¾‚¯‚¾B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Despite her pleas the villagers looked with great interest at her naked body.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ŒÒŠÔ‚ð–c‚ç‚Ü‚¹‚Ä‚éŽÒ‚½‚¿‚à‚¢‚éB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Some of their pants bulged a bit.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\—§‚¿\•\î\—§‚¿y•\î”ßz”¼‹ƒ‚«.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ç«‹ã¡\è¡¨æƒ…\ç«‹ã¡ã€è¡¨æƒ…æ‚²ã€‘åŠæ³£ã.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|210ŸŸ’·˜V</EventArg>
+					<EventArg Type="Str">NAMELABEL|210â—†â—†é•·è€</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","210ŸŸ’·˜V.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","210â—†â—†é•·è€.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"Ã‚©‚É‚µ‚È‚³‚¢B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Be quiet.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Ù‚«‚ð‰º‚·"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Judement will be deliverd"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ŽR‘¯‚âlŽE‚µ‚È‚çA”›‚èŽñ‚É‚·‚é‚Ì‚ª•’Ê‚¶‚á‚ªB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Bandits and murders are normally hanged to death.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚±‚Ü‚Å‚Ìß‚Í”Æ‚µ‚Ä‚È‚¢‚æ‚¤‚¶‚á‚µA‚Ü‚¾Žá‚¢B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€The crime isn't so severe this time, she is also young.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚±‚ñ‚ÈŽž‚ÍAX‚ÉÙ‚©‚¹‚é‚Ì‚ªÌ‚©‚ç‚Ì‘º‚Ì|‚¶‚á"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€For these times the forest will pass judement, as the old laws state"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"—‡‚Å–Ø‚É”›‚è•t‚¯Aˆê”Ó‰ß‚²‚³‚¹‚éB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"For one night she will be bound naked to a tree.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@–³Ž–‚É’©‚ðŒ}‚¦‚é‚±‚Æ‚ª‚Å‚«‚½‚çA‚»‚Ì‚Ü‚Ü‰ð•ú‚·‚é"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€If she makes it to the morning, she will be released"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\—§‚¿\•\î\—§‚¿y•\î”ßz”ß‚µ‚Ý.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ç«‹ã¡\è¡¨æƒ…\ç«‹ã¡ã€è¡¨æƒ…æ‚²ã€‘æ‚²ã—ã¿.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ÅA‚Å‚àcc‚±‚ñ‚ÈêŠ‚¾‚ÆA–‚•¨‚ªo‚é‚±‚Æ‚àcc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"But, butâ€¦â€¦monsters are around hereâ€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|210ŸŸ’·˜V</EventArg>
+					<EventArg Type="Str">NAMELABEL|210â—†â—†é•·è€</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","210ŸŸ’·˜V.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","210â—†â—†é•·è€.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"–‚•¨‚Å‚È‚­‚Æ‚àA˜T‚ªŠñ‚Á‚Ä‚­‚é‚±‚Æ‚à‚ ‚é‚¶‚á‚ë‚¤‚ÈB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Not only monsters, wolfs often sighted around here.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@—‡‚Å‚Í“€Ž€‚·‚é‚©‚à‚µ‚ê‚È‚¢B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€you could also freeze to death.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚¶‚á‚ªAX‚É‹–‚³‚ê‚½‚ç‰½Ž–‚à‚È‚­–é‚ð‰z‚¹‚é‚¶‚á‚ë‚¤"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Now, if forest permits it the night will pass without incident."</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\—§‚¿\•\î\—§‚¿y•\î‰õzƒVƒ‡ƒbƒN.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ç«‹ã¡\è¡¨æƒ…\ç«‹ã¡ã€è¡¨æƒ…å¿«ã€‘ã‚·ãƒ§ãƒƒã‚¯.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ccccI"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\—§‚¿\•\î\—§‚¿y•\î”ßz”¼‹ƒ‚«.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ç«‹ã¡\è¡¨æƒ…\ç«‹ã¡ã€è¡¨æƒ…æ‚²ã€‘åŠæ³£ã.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|210ŸŸ’·˜V</EventArg>
+					<EventArg Type="Str">NAMELABEL|210â—†â—†é•·è€</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","210ŸŸ’·˜V.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","210â—†â—†é•·è€.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‰½‚à‹N‚«‚È‚¢‚æ‚¤A‹F‚Á‚Ä‚¢‚é‚±‚Æ‚¶‚á‚ÈB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Pray that nothing will happen.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚µ‚Äß‚ð”½È‚µ‚È‚³‚¢B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€And reflect on your crimes.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚Å‚ÍŠF‚ÌOA‚à‚¤s‚±‚¤"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Now, we take our leave"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]STOPSND|BGM|1000|PASS</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ÜA‘Ò‚Á‚Äcc’u‚¢‚Ä‚¢‚©‚È‚¢‚Åcc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Wa,waitâ€¦â€¦ don;t leave me hereâ€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|îŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\Ž©‘R\Ž©‘R04ˆÃ‚¢XC.gal|NORMAL|#1|36|36|10|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|æƒ…æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\è‡ªç„¶\è‡ªç„¶04æš—ã„æ£®C.gal|NORMAL|#1|36|36|10|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ˆÊ’u•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\00.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ä½ç½®å¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\00.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒ|[ƒY•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\‘OÀ‚èS‘©.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒãƒ¼ã‚ºå¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\å‰åº§ã‚Šæ‹˜æŸ.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î”ßz”ß‚µ‚Ý.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…æ‚²ã€‘æ‚²ã—ã¿.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@“ú‚ª•é‚ê‚ÄAŽž‚ªŒo‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Closing her eyes, time passed.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‘OŒi,NPC3,NPC|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,å‰æ™¯,NPC3,NPC|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\‰‰o‰¹\voice031.ogg|SE|NORMAL|400|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\æ¼”å‡ºéŸ³\voice031.ogg|SE|NORMAL|400|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¤‚£cccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‰“‚­‚©‚çA˜T‚Ì‰“–i‚¦‚ª•·‚±‚¦‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@–k‚Ì’n‚ÌX‚ÍŠ¦‚­A’n–Ê‚ÉG‚ê‚Ä‚¢‚é‘«‚Í—â‚¦‚Ä‚µ‚Ü‚Á‚ÄA’É‚Ý‚Ç‚±‚ë‚©</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‰½‚àŠ´‚¶‚È‚­‚È‚Á‚Ä‚­‚é‚Ù‚Ç‚¾B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(­‚µ‚Å‚àA‘Ì‚ð—h‚·‚Á‚Ä’g‚ß‚È‚¢‚ÆccccB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cc•|‚¢cc‚½‚¾‚ÌX‚ªA‚±‚ñ‚È‚É•|‚¢‚È‚ñ‚ÄA’m‚ç‚È‚©‚Á‚½ccB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‘‚­’©‚É‚È‚Á‚Äcc)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Urgâ€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1184,94 +1138,46 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ƒKƒTƒKƒT‚Æ•¨‰¹‚ª•·‚±‚¦‚½B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î‰õzƒVƒ‡ƒbƒN.gal|NORMAL|1|0|0|0||0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(IH</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€A wolf's howl was heard in the distance.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cc‰½‚©‹ß‚Ã‚¢‚Ä‚­‚éIH)</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|NPC|ƒOƒ‰ƒtƒBƒbƒN\NPC\’jƒ‚ƒu01\Ž©Œx’c.gal|NORMAL|#1|L|B|100|1|600|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î”ßz”ß‚µ‚Ý.gal|NORMAL|1|0|0|0||0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¨‚¨A–³Ž–‚¾‚Á‚½‚©"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€The weather in the forests of the lands of the north is cold, and the feet grow cold from the ground</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"—Ç‚©‚Á‚½—Ç‚©‚Á‚½"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">to the point that they become numb.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cc‘º‚Ìl‚½‚¿H"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¨‘O‚³‚ñ‚Ý‚½‚¢‚È‰Âˆ¤‚¢—‚ÌŽq‚ðŒ©ŽÌ‚Ä‚é‚È‚ñ‚Ä‚Å‚«‚ñ‚©‚ç‚ÈB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(My body tries to stay warm, even if it's just a little bitâ€¦â€¦â€¦â€¦)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‘¼‚Ì˜A’†‚É‚Í“à‚ÅA’©‚Ü‚ÅŽç‚Á‚Ä‚â‚ë‚¤"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦scaryâ€¦â€¦even if just a forest, it's so scary, I never knewâ€¦â€¦</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€Let it be morning soonâ€¦â€¦ï¼‰</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1280,112 +1186,208 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cc—‡‚ðŒ©‚ç‚ê‚é‚Ì‚Íh‚¢‚ªAˆÀ‘S‚É‚Í‘ã‚¦‚ç‚ê‚È‚¢B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚ê‚É”Þ‚ç‚ÌŒúˆÓ‚ªŠð‚µ‚©‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€A rustling came from somewhere.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î”ßz‹ƒ‚«Î‚¢.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…å¿«ã€‘ã‚·ãƒ§ãƒƒã‚¯.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cc‚ A‚ ‚è‚ª‚Æ‚¤cc‚²‚´‚¢‚Ü‚·cc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚¢‚Á‚Ä‚±‚Æ‚æ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(!?</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"Š¦‚©‚Á‚½‚¾‚ëH@‚Ç‚êA‚¢‚Ü‰Î‚ð‹N‚±‚·‚©‚ç‚È"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦Something is coming!?ï¼‰</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\‰‰o‰¹\FireB@11.ogg|SE|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|NPC|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\NPC\ç”·ãƒ¢ãƒ–01\è‡ªè­¦å›£.gal|NORMAL|#1|L|B|100|1|600|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\‰‰o‰¹\Fire00@11.ogg|SE2|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…æ‚²ã€‘æ‚²ã—ã¿.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î”ßz”ß‚µ‚Ý.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Hey, you are still safe"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Good, good"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦The villagers?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"We couldn't leave such a cute girl by herself."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Our lot decided to protect you in secret till morning"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@’j‚½‚¿‚Í•°‚«‰Î‚Ì‚»‚Î‚É˜‚ð‰º‚ë‚µAFeena‚ðˆÍ‚ñ‚Å‚­‚Â‚ë‚¬Žn‚ß‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦Painfull stare pierced her naked body, but safety is more important.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‰Î‚ÉÆ‚ç‚³‚ê‚é­—‚Ì—‡‘Ì‚ðAƒjƒ„ƒjƒ„‚ÆŠÓÜ‚µ‚Ä‚¢‚éB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Besides, their knidness made her happy</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…æ‚²ã€‘æ³£ãç¬‘ã„.gal|NORMAL|1|0|0|0||0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ ‚Ìcc‚ ‚Ü‚èAŒ©‚È‚¢‚Åcc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦Tha, thank youâ€¦â€¦very muchâ€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"•Ê‚É‚¢‚¢‚¾‚ëB’©‚Ü‚ÅŽç‚Á‚Ä‚â‚é‚ñ‚¾‚©‚ç"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Thats great"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚»‚¤‚»‚¤B‚±‚ê‚­‚ç‚¢–ð“¾–ð“¾cc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Aren't you cold?ã€€Well, lets light a fire"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\æ¼”å‡ºéŸ³\FireB@11.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\æ¼”å‡ºéŸ³\Fire00@11.ogg|SE2|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…æ‚²ã€‘æ‚²ã—ã¿.gal|NORMAL|1|0|0|0||0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€The men sat down near around the fire, flanking Feena as she began to feel at ease.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Grinning smirks arose as the fire illuminated the young girl's body.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Uhm... Please, don't look..."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Don't worry about it. We are guarding you after all"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Right! This is just a side benefit"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1394,28 +1396,28 @@
 					<EventArg Type="Str">[\x01]PLAYSND|BGM\bgm_evergreen2.mid|BGM|REPEAT|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‰‰o|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\S‘©\‘Oy’jŽèz“ûŽñ.gal|NORMAL||||||</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|æ¼”å‡º|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\æ‹˜æŸ\å‰ã€ç”·æ‰‹ã€‘ä¹³é¦–.gal|NORMAL||||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î‰õzƒVƒ‡ƒbƒN.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…å¿«ã€‘ã‚·ãƒ§ãƒƒã‚¯.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¦‚ÁccccH</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ehâ€¦â€¦â€¦â€¦?</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚â‚Á\\‚ ‚Á\\I"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Yaaaa!"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1424,397 +1426,211 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@”Þ‚ç‚ÍFeena‚Ì¬‚³‚È“ûŽñ‚ðŠç‚ðŠñ‚¹‚ÄŠÏŽ@‚µAŽw‚Å’e‚¢‚Ä˜M‚ñ‚¾B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€They grabbed Feena's small nipples, looking closely and playing with them.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚æ‚­Šç‚ðŒ©‚ê‚ÎA‚±‚±‚ÉW‚Ü‚Á‚½‘ºl‚½‚¿‚ÍA—‡‚ÅÙ‚©‚ê‚éFeena‚ðŒ©‚Ä</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€With greed on their faces, the viliegers jugded Feena's naked body</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">ŒÒŠÔ‚ð–u‹N‚³‚¹‚Ä‚¢‚½’j‚½‚¿‚È‚Ì‚¾‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">è‚¡é–“ã‚’å‹ƒèµ·ã•ã›ã¦ã„ãŸç”·ãŸã¡ãªã®ã ã£ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¨H@‚¿‚å‚¤‚Ç‚¢‚¢‚‚³‚É‚¨ƒNƒ`‚ªŠJ‚¢‚Ä‚é‚¼B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ãŠï¼Ÿã€€ã¡ã‚‡ã†ã©ã„ã„é«˜ã•ã«ãŠã‚¯ãƒãŒé–‹ã„ã¦ã‚‹ãžã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‰½‚©“Ë‚Áž‚ñ‚Å—~‚µ‚¢‚Ì‚©‚ÈH"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ä½•ã‹çªã£è¾¼ã‚“ã§æ¬²ã—ã„ã®ã‹ãªï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚¢‚Ë‚¦B“ê‚ð‰ð‚­‚í‚¯‚É‚Í‚¢‚©‚È‚¢‚©‚çA•¨‘«‚è‚È‚©‚Á‚½ƒgƒR‚¾"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã„ã„ã­ãˆã€‚ç¸„ã‚’è§£ãã‚ã‘ã«ã¯ã„ã‹ãªã„ã‹ã‚‰ã€ç‰©è¶³ã‚Šãªã‹ã£ãŸãƒˆã‚³ã "</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‰‰o|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\ƒ_ƒ~[.gal|NORMAL||||||</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|æ¼”å‡º|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\ãƒ€ãƒŸãƒ¼.gal|NORMAL||||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|NPC2|ƒOƒ‰ƒtƒBƒbƒN\NPC\’jƒ‚ƒu01\’jA—‡.gal|NORMAL|#1|100|B|100|1|200|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|NPC2|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\NPC\ç”·ãƒ¢ãƒ–01\ç”·Aè£¸.gal|NORMAL|#1|100|B|100|1|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@’j‚½‚¿‚ÍAFeena‚Ì•@æ‚Åƒ{ƒƒŠ‚Æ«Ší‚ð˜Io‚³‚¹‚Ä‚Ý‚¹‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ç”·ãŸã¡ã¯ã€Feenaã®é¼»å…ˆã§ãƒœãƒ­ãƒªã¨æ€§å™¨ã‚’éœ²å‡ºã•ã›ã¦ã¿ã›ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î‰õz‹üJ.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…å¿«ã€‘å±ˆè¾±.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ÁccI@ƒ„‚ÁccI@‚â‚¾‚ ‚ÁA‹ß‚Ã‚¯‚È‚¢‚Å‚ÁccI"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã£â€¦â€¦ï¼ã€€ãƒ¤ã£â€¦â€¦ï¼ã€€ã‚„ã ã‚ã£ã€è¿‘ã¥ã‘ãªã„ã§ã£â€¦â€¦ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚»‚ñ‚È‚É‹¯‚¦‚È‚­‚Ä‚à‚¢‚¢‚¾‚ë‚¤"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ãã‚“ãªã«æ€¯ãˆãªãã¦ã‚‚ã„ã„ã ã‚ã†"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¨‘O‚Ì‚ÍL‚¢‚©‚çŒ™‚¾‚Á‚Ä‚æ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ãŠå‰ã®ã¯è‡­ã„ã‹ã‚‰å«Œã ã£ã¦ã‚ˆ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚»A‚»‚¤‚¢‚¤–â‘è‚Å‚Í‚È‚­‚Á‚ÄccI"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ãã€ãã†ã„ã†å•é¡Œã§ã¯ãªãã£ã¦â€¦â€¦ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚¢‚©‚ç–Ù‚Á‚ÄŒûŠJ‚¯‚È‚æB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã„ã„ã‹ã‚‰é»™ã£ã¦å£é–‹ã‘ãªã‚ˆã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ƒIƒIƒJƒ~‚Ì‰a‚É‚È‚é‚æ‚è‚Í‚¢‚¢‚¾‚ëH"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚ªã‚ªã‚«ãƒŸã®é¤Œã«ãªã‚‹ã‚ˆã‚Šã¯ã„ã„ã ã‚ï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaB.ogg|SE|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaB.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒyƒjƒX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\ƒyƒjƒX\‘OyƒyƒjƒXŠOzŒû2.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒšãƒ‹ã‚¹|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\ãƒšãƒ‹ã‚¹\å‰ã€ãƒšãƒ‹ã‚¹å¤–ã€‘å£2.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î‰õz‹üJ.gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…å¿«ã€‘å±ˆè¾±.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒyƒjƒX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\ƒyƒjƒX\‘OyƒyƒjƒXŠOzŒû.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒšãƒ‹ã‚¹|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\ãƒšãƒ‹ã‚¹\å‰ã€ãƒšãƒ‹ã‚¹å¤–ã€‘å£.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒyƒjƒX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\ƒyƒjƒX\‘OyƒyƒjƒXŠOzŒû2.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒšãƒ‹ã‚¹|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\ãƒšãƒ‹ã‚¹\å‰ã€ãƒšãƒ‹ã‚¹å¤–ã€‘å£2.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaB.ogg|SE|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaB.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]QUAKE|ƒyƒjƒX|QUAKE|0|10|10|500|50</EventArg>
+					<EventArg Type="Str">[\x01]QUAKE|ãƒšãƒ‹ã‚¹|QUAKE|0|10|10|500|50</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@H‚¢‚µ‚Î‚Á‚½O‚Ì‘O‚ÅA–u‹N‚µ‚½ƒyƒjƒX‚ªU‚ç‚ê‚ÄAFeena‚Ì•@–Ê‚ð</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€é£Ÿã„ã—ã°ã£ãŸå”‡ã®å‰ã§ã€å‹ƒèµ·ã—ãŸãƒšãƒ‹ã‚¹ãŒæŒ¯ã‚‰ã‚Œã¦ã€Feenaã®é¼»é¢ã‚’</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">“Ë‚Á‚Â‚«‰ñ‚·B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">çªã£ã¤ãå›žã™ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚±‚Ì’ö“x‚Ì‰¶•Ô‚µ‚à‚µ‚È‚¢‹C‚È‚çA‚à‚Á‚Æ“‚¢–Ú‚É‘˜‚í‚¹‚é‚¼H</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã“ã®ç¨‹åº¦ã®æ©è¿”ã—ã‚‚ã—ãªã„æ°—ãªã‚‰ã€ã‚‚ã£ã¨é…·ã„ç›®ã«é­ã‚ã›ã‚‹ãžï¼Ÿ</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚¨‘O‚Í‚Ç‚¤‚¹Ž€‚ñ‚¾‚Á‚Ä‚¢‚¢ßl‚È‚ñ‚¾‚©‚ç‚È‚ŸB‚í‚©‚Á‚Ä‚ñ‚ÌH"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ãŠå‰ã¯ã©ã†ã›æ­»ã‚“ã ã£ã¦ã„ã„ç½ªäººãªã‚“ã ã‹ã‚‰ãªãã€‚ã‚ã‹ã£ã¦ã‚“ã®ï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\‘O\•\î\‘Oy•\î‰õzâ–].gal|NORMAL|1|0|0|0||0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\å‰\è¡¨æƒ…\å‰ã€è¡¨æƒ…å¿«ã€‘çµ¶æœ›.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚Ácccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚ ‚©‚ç‚³‚Ü‚É‹º‚³‚ê‚ÄA’ïR‚·‚é‹C—Í‚ªˆÞ‚¦‚Ä‚¢‚­B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚Ù‚çAƒNƒ`ŠJ‚¯‚ë"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccccc</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cc‚¤‚£‚Ácccccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º01.gal|NORMAL|#1|C|B|1000|1|400|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚à‚Á‚Æ‘å‚«‚­‚ [‚ñ‚µ‚ÄB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@’j‚Ìƒ`ƒ“ƒR‚ð‚µ‚á‚Ô‚è‚½‚¢‚Á‚Ä‹CŽ‚¿‚ðA‘Ô“x‚Å•\‚µ‚Ä‚Ý‚Ä"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º02.gal|NORMAL|1|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@’j‚Ì«Ší‚ð“Ë‚«•t‚¯‚ç‚ê‚È‚ª‚çA–³—l‚ÉO‚ðŠJ‚«AƒyƒjƒX‚ð‚Ë‚¾‚é‚æ‚¤‚È</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‘Ô“x‚ð‹­‚¢‚ç‚ê‚éccB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚¢‚æ[B‚¨‚Á‚«‚­Œû‚ðŠJ‚¯‚Ä‚é‚Ë‚¥B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚ñ‚È‚Éƒ`ƒ“ƒ|‚ð‚­‚í‚¦‚½‚¢‚ñ‚¾‚Ë‚¦`"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(cc‚Ácc‚Ÿ‚ cccc</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@cccc‚Ð‚Ç‚¢cc‚±‚ñ‚È‚Ìcc‚Ý‚¶‚ßcc)</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"Žd•û‚È‚¢‚È‚ŸB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚Ù‚êA‘åD‚«‚ÈƒIƒ`ƒ“ƒ`ƒ“‚ªŒû‚É“ü‚Á‚Ä‚¢‚­‚æ`"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\KuchuC.ogg|SE|REPEAT|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º03.gal|NORMAL|1|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccc‚ñ‚£‚£cc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã£â€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1823,40 +1639,184 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Œû“à‚Ö‚ÌN“üŽÒ‚ÉG‚ê‚½‚­‚È‚­‚ÄA‚¢‚Á‚»‚¤Š{‚ðŠJ‚±‚¤‚Æ‚·‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚µ‚©‚µ¬‚³‚ÈO‚ÌŠJ‚­‘å‚«‚³‚É‚ÍŒÀŠE‚ª‚ ‚Á‚ÄAŒûo‚ÌæøçW‚ð</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‹–‚µ‚Ä‚µ‚Ü‚¤‚¾‚¯‚¾‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚ã‹ã‚‰ã•ã¾ã«è„…ã•ã‚Œã¦ã€æŠµæŠ—ã™ã‚‹æ°—åŠ›ãŒèŽãˆã¦ã„ãã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\SyaburuA.ogg|SE|REPEAT|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º04.gal|NORMAL|1|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñ‚ñ‚ÁA‚ñA‚ñ‚®‚ñ‚ñ‚ñ‚ñ‚ÁII"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã»ã‚‰ã€ã‚¯ãƒé–‹ã‘ã‚"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦â€¦â€¦ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦ã†ã…ã£â€¦â€¦â€¦â€¦â€¦â€¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘01.gal|NORMAL|#1|C|B|1000|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã‚‚ã£ã¨å¤§ããã‚ãƒ¼ã‚“ã—ã¦ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ç”·ã®ãƒãƒ³ã‚³ã‚’ã—ã‚ƒã¶ã‚ŠãŸã„ã£ã¦æ°—æŒã¡ã‚’ã€æ…‹åº¦ã§è¡¨ã—ã¦ã¿ã¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦â€¦â€¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘02.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ç”·ã®æ€§å™¨ã‚’çªãä»˜ã‘ã‚‰ã‚ŒãªãŒã‚‰ã€ç„¡æ§˜ã«å”‡ã‚’é–‹ãã€ãƒšãƒ‹ã‚¹ã‚’ã­ã ã‚‹ã‚ˆã†ãª</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">æ…‹åº¦ã‚’å¼·ã„ã‚‰ã‚Œã‚‹â€¦â€¦ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã„ã„ã‚ˆãƒ¼ã€‚ãŠã£ããå£ã‚’é–‹ã‘ã¦ã‚‹ã­ã‡ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ãã‚“ãªã«ãƒãƒ³ãƒã‚’ãã‚ãˆãŸã„ã‚“ã ã­ãˆï½ž"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ï¼ˆâ€¦â€¦ã£â€¦â€¦ãã‚â€¦â€¦â€¦â€¦</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦â€¦â€¦ã²ã©ã„â€¦â€¦ã“ã‚“ãªã®â€¦â€¦ã¿ã˜ã‚â€¦â€¦ï¼‰</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ä»•æ–¹ãªã„ãªãã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ã»ã‚Œã€å¤§å¥½ããªã‚ªãƒãƒ³ãƒãƒ³ãŒå£ã«å…¥ã£ã¦ã„ãã‚ˆï½ž"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\KuchuC.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘03.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦ã‚“ã…ã…â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1865,112 +1825,40 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‹ê‚µ‚­‚È‚Á‚ÄAQ‚Ä‚Äã‚Å‰Ÿ‚µ•Ô‚»‚¤‚Æ‚·‚é‚ÆA“–‘RŽhŒƒ‚ð</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€å£å†…ã¸ã®ä¾µå…¥è€…ã«è§¦ã‚ŒãŸããªãã¦ã€ã„ã£ãã†é¡Žã‚’é–‹ã“ã†ã¨ã™ã‚‹ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">—^‚¦‚é‚±‚Æ‚É‚È‚éB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã—ã‹ã—å°ã•ãªå”‡ã®é–‹ãå¤§ãã•ã«ã¯é™ç•ŒãŒã‚ã£ã¦ã€å£è…”ã®è¹‚èº™ã‚’</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">è¨±ã—ã¦ã—ã¾ã†ã ã‘ã ã£ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|207ŸŸ‘ºl</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\SyaburuA.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘04.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","207ŸŸ‘ºl.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñH@‚¨‚¨‚¨‚ÁIH"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚Ç‚¤‚µ‚½B‚·‚²‚­ãŽè‚¢‚Ì‚©"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚âcc•Ê‚ÉB•’Ê‚¾"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"•’Ê‚©‚æ"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚Å‚àA‰½‚¾‚©cc‚·‚²‚­‹z‚¢Žæ‚ç‚ê‚é‚æ‚¤‚ÈŠ´‚¶‚ª‚·‚é"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚È‚ñ‚¾‚»‚è‚áH"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¢‚âA‚Ù‚ñ‚Æ‚±‚ê‰½‚¾‚©‚¨‚©‚µ‚¢‚íccB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚½‚Ü‚ñ‚Ë‚¦cc—n‚¯‚é‚Ácccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\SyaburuB.ogg|SE|REPEAT|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º05.gal|NORMAL|1|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@’j‚Í—~–]‚É‹ì‚è—§‚Ä‚ç‚ê‚ÄAFeena‚ÌA‰œ‚ÉƒyƒjƒX‚ð“Ë‚Áž‚à‚¤‚Æ‚·‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚µ‚©‚µ“ü‚è‚«‚ç‚¸A‹T“ª‚ª—–\‚Éã‚â–j‚Æ—‚Ý‡‚¤B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñ‚Ô‚ÁII@‚ñ‚ñ‚ÁA‚¶‚ã‚Ô‚ÁA‚ñ‚Ô‚ÁccB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚ñ‚£‚ñ‚ñ‚ñ‚ñ‚ñ‚ÁII"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ã‚“ã£ã€ã‚“ã€ã‚“ãã‚“ã‚“ã‚“ã‚“ã£ï¼ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1979,61 +1867,112 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ŒÄ‹z‚ª‹ê‚µ‚­‚È‚èA­—‚ÍŠç‚ð^‚ÁÔ‚É‚µ‚Äh‚³‚ð‘i‚¦‚é‚ªA</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€è‹¦ã—ããªã£ã¦ã€æ…Œã¦ã¦èˆŒã§æŠ¼ã—è¿”ãã†ã¨ã™ã‚‹ã¨ã€å½“ç„¶åˆºæ¿€ã‚’</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‚»‚ñ‚È‘«‘~‚«‚à’j‚Ì‰õŠy‚ðŽhŒƒ‚·‚é‚¾‚¯‚¾‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ä¸Žãˆã‚‹ã“ã¨ã«ãªã‚‹ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
+					<EventArg Type="Str">NAMELABEL|207â—†â—†æ‘äºº</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","207â—†â—†æ‘äºº.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚½‚Ü‚ñ‚Ë‚¦cc‚Ù‚ñ‚Æ‚É‚½‚Ü‚ñ‚Ë‚¥cc</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ï¼Ÿã€€ãŠãŠãŠã£ï¼ï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚ ‚ŸA‚à‚¤o‚¿‚Ü‚¤cc</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã©ã†ã—ãŸã€‚ã™ã”ãä¸Šæ‰‹ã„ã®ã‹"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã„ã‚„â€¦â€¦åˆ¥ã«ã€‚æ™®é€šã "</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@ccˆù‚ßA‰´‚ÌŽqŽí‚ðˆù‚Ýž‚ß‚ÁI"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"æ™®é€šã‹ã‚ˆ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã§ã‚‚ã€ä½•ã ã‹â€¦â€¦ã™ã”ãå¸ã„å–ã‚‰ã‚Œã‚‹ã‚ˆã†ãªæ„Ÿã˜ãŒã™ã‚‹"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ãªã‚“ã ãã‚Šã‚ƒï¼Ÿ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã„ã‚„ã€ã»ã‚“ã¨ã“ã‚Œä½•ã ã‹ãŠã‹ã—ã„ã‚â€¦â€¦ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ãŸã¾ã‚“ã­ãˆâ€¦â€¦æº¶ã‘ã‚‹ã£â€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\SyaburuB.ogg|SE|REPEAT|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º06.gal|NORMAL|14|200|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘05.gal|NORMAL|1|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ç”·ã¯æ¬²æœ›ã«é§†ã‚Šç«‹ã¦ã‚‰ã‚Œã¦ã€Feenaã®å–‰å¥¥ã«ãƒšãƒ‹ã‚¹ã‚’çªã£è¾¼ã‚‚ã†ã¨ã™ã‚‹ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ã—ã‹ã—å…¥ã‚Šãã‚‰ãšã€äº€é ­ãŒä¹±æš´ã«èˆŒã‚„é ¬ã¨çµ¡ã¿åˆã†ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ‚ÁIH"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ã¶ã£ï¼ï¼ã€€ã‚“ã‚“ã£ã€ã˜ã‚…ã¶ã£ã€ã‚“ã¶ã£â€¦â€¦ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚“ã…ã‚“ã‚“ã‚“ã‚“ã‚“ã£ï¼ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2042,55 +1981,61 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Feena‚ÌA‚ÉA’j‚Ì¸‰t‚ª’‚¬ž‚Ü‚ê‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º07.gal|NORMAL|14|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|ƒ‚ƒu\200ŸŸ’jA</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","ƒ‚ƒu\200ŸŸ’jA.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚Ü‚¾o‚é‚ÁIH"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaE.ogg|SE|NORMAL|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|”’ƒtƒ‰ƒbƒVƒ…|ƒOƒ‰ƒtƒBƒbƒN\ƒGƒtƒFƒNƒg\”’ƒtƒ‰ƒbƒVƒ…0020•b.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñ‚®‚Í‚ÁccII</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€å‘¼å¸ãŒè‹¦ã—ããªã‚Šã€å°‘å¥³ã¯é¡”ã‚’çœŸã£èµ¤ã«ã—ã¦è¾›ã•ã‚’è¨´ãˆã‚‹ãŒã€</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚ñ‚ ‚Ácc‚©‚Í‚ ‚Ÿ‚Ácc‚Í‚Ÿcc‚Ácc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ãã‚“ãªè¶³æŽ»ãã‚‚ç”·ã®å¿«æ¥½ã‚’åˆºæ¿€ã™ã‚‹ã ã‘ã ã£ãŸã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ãŸã¾ã‚“ã­ãˆâ€¦â€¦ã»ã‚“ã¨ã«ãŸã¾ã‚“ã­ã‡â€¦â€¦</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚ãã€ã‚‚ã†å‡ºã¡ã¾ã†â€¦â€¦</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€â€¦â€¦é£²ã‚ã€ä¿ºã®å­ç¨®ã‚’é£²ã¿è¾¼ã‚ã£ï¼"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘06.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ã£ï¼ï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2099,34 +2044,55 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Œû‚Éo‚µ‚½‚¾‚¯‚Å‚Í•¨‘«‚è‚¸A’j‚ÍFeena‚Ì”¯‚Ì–Ñ‚É‚±‚·‚è•t‚¯‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚³‚ç‚É¸‰t’Ð‚¯‚É‚È‚Á‚½­—‚ÌŒû‚ð“÷–_‚Å‚©‚«‰ñ‚µAo‚µ“ü‚ê‚µA</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‚½‚Á‚Õ‚è‚Æáz¹‚·‚éA“÷‚Ì“®‚«‚ðŠy‚µ‚ñ‚Å‚©‚çˆø‚«”²‚¢‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€Feenaã®å–‰ã«ã€ç”·ã®ç²¾æ¶²ãŒæ³¨ãŽè¾¼ã¾ã‚Œã‚‹ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘07.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|ãƒ¢ãƒ–\200â—†â—†ç”·A</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","ãƒ¢ãƒ–\200â—†â—†ç”·A.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚£‚¦‚¦‚¦‚¦‚Ácc‚Ácc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã¾ã å‡ºã‚‹ã£ï¼ï¼Ÿ"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaE.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|ç™½ãƒ•ãƒ©ãƒƒã‚·ãƒ¥|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚¨ãƒ•ã‚§ã‚¯ãƒˆ\ç™½ãƒ•ãƒ©ãƒƒã‚·ãƒ¥0020ç§’.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ãã¯ã£â€¦â€¦ï¼ï¼</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚“ã‚ã£â€¦â€¦ã‹ã¯ã‚ãã£â€¦â€¦ã¯ãâ€¦â€¦ã£â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2135,28 +2101,34 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚µ‚©‚µFeena‚ÍAA‚É‚Ö‚Î‚è‚Â‚­¸‰t‚ðˆù‚Ý‰º‚·‚±‚Æ‚ª‚Å‚«‚¸A</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€å£ã«å‡ºã—ãŸã ã‘ã§ã¯ç‰©è¶³ã‚Šãšã€ç”·ã¯Feenaã®é«ªã®æ¯›ã«ã“ã™ã‚Šä»˜ã‘ã‚‹ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‰ò‚É‚È‚Á‚½¸‰t‚ð“f‚«o‚µ‚Ä‚µ‚Ü‚¤B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã•ã‚‰ã«ç²¾æ¶²æ¼¬ã‘ã«ãªã£ãŸå°‘å¥³ã®å£ã‚’è‚‰æ£’ã§ã‹ãå›žã—ã€å‡ºã—å…¥ã‚Œã—ã€</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ãŸã£ã·ã‚Šã¨ç—™æ”£ã™ã‚‹å–‰è‚‰ã®å‹•ãã‚’æ¥½ã—ã‚“ã§ã‹ã‚‰å¼•ãæŠœã„ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚°‚Ù‚Ácc‚°‚Ù‚Ù‚Ácc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã…ãˆãˆãˆãˆã£â€¦â€¦ã£â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2165,88 +2137,28 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@•’Ê‚È‚ç‰˜‚ç‚µ‚¢‚ÆŽv‚¤‚æ‚¤‚È‚»‚ÌŒõŒi‚ªA’j‚½‚¿‚É‚Í‚Ð‚Ç‚­ˆú“ ‚Å</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã—ã‹ã—Feenaã¯ã€å–‰ã«ã¸ã°ã‚Šã¤ãç²¾æ¶²ã‚’é£²ã¿ä¸‹ã™ã“ã¨ãŒã§ããšã€</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">”w“¿“I‚È‚à‚Ì‚ÉŒ©‚¦‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">å¡Šã«ãªã£ãŸç²¾æ¶²ã‚’åãå‡ºã—ã¦ã—ã¾ã†ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º08.gal|NORMAL|1|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccc‚ÂAŽŸ‚Í‰´‚¾B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‘‚­‚Ç‚¯‚Á"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‘Ò‚Á‚êcc‚à‚Ù‚Ácc–³—‚ê‚Ó‚Ácc’‚‘§‚Ó‚é‚Ácccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚¤‚é‚¹‚¦‚ÁA‚¨‘O‚ÍŒûƒ}ƒ“ƒR‚ðŠJ‚¢‚Ä‚ê‚Î‚¢‚¢‚ñ‚¾‚æƒbII"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º09.gal|NORMAL|14|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
-				</Event>
-				<Event Command="HistChar">
-					<EventArg Type="Str"></EventArg>
-					<EventArg Type="Int">50</EventArg>
-					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚ñ‚ñ‚ñ‚ñ‚ñ‚ñ[[[[IH"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã’ã»ã£â€¦â€¦ã’ã»ã»ã£â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2255,58 +2167,88 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚ê‚©‚ç’j‚½‚¿‚ÍAFeena‚ÌŒû‚ð—ËJ‚·‚é‚±‚Æ‚Éê”O‚µ‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€æ™®é€šãªã‚‰æ±šã‚‰ã—ã„ã¨æ€ã†ã‚ˆã†ãªãã®å…‰æ™¯ãŒã€ç”·ãŸã¡ã«ã¯ã²ã©ãæ·«è•©ã§</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Å‰‚Ìˆê‰ñ‚ðŒ©‚½‚±‚Æ‚ÅŠï–­‚È—ìŠ´‚Å‚àŽó‚¯‚½‚Ì‚©A–£“ü‚ç‚ê‚½‚æ‚¤‚É</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">”Þ—‚ð¸‰t‚Å‰˜‚·‚±‚Æ‚É–²’†‚É‚È‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">èƒŒå¾³çš„ãªã‚‚ã®ã«è¦‹ãˆãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\ChuA-lop.ogg|SE2|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘08.gal|NORMAL|1|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º10.gal|NORMAL|14|200|0|0||1</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@”¯‚ð‰˜‚µAŽ¨‚ð‰˜‚µAŽñ‚ð‰˜‚µA•@‚ÌŒŠ‚ÉŽË¸‚·‚éB</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‰½“xo‚µ‚Ä‚àŽû‚Ü‚ç‚È‚¢‚Ì‚©Aˆêl‚ª‰½“x‚àŽË¸‚µ‚ÄAFeena‚ÌŽp‚Í</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">“ª‚©‚çƒU[ƒƒ“‚ðƒoƒPƒc‚Å—‚Ñ‚¹‚½‚æ‚¤‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚½B</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">1</EventArg>
-				</Event>
-				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccccc‚©‚Ácc‚Í‚Ácccc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦ã¤ã€æ¬¡ã¯ä¿ºã ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€æ—©ãã©ã‘ã£"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"å¾…ã£ã‚Œâ€¦â€¦ã‚‚ã»ã£â€¦â€¦ç„¡ç†ã‚Œãµã£â€¦â€¦çª’æ¯ãµã‚‹ã£â€¦â€¦â€¦â€¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã†ã‚‹ã›ãˆã£ã€ãŠå‰ã¯å£ãƒžãƒ³ã‚³ã‚’é–‹ã„ã¦ã‚Œã°ã„ã„ã‚“ã ã‚ˆãƒƒï¼ï¼"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘09.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã‚“ã‚“ã‚“ã‚“ã‚“ã‚“ãƒ¼ãƒ¼ãƒ¼ãƒ¼ï¼ï¼Ÿ"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2315,46 +2257,106 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Feena‚Í‚à‚¤R‹c‚·‚éŒ³‹C‚àŽg‚¢‰Ê‚½‚µA‚í‚¸‚©‚È‹@‰ï‚Å‘§Œp‚¬‚·‚é</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ãã‚Œã‹ã‚‰ç”·ãŸã¡ã¯ã€Feenaã®å£ã‚’é™µè¾±ã™ã‚‹ã“ã¨ã«å°‚å¿µã—ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‚¾‚¯‚Å¸ˆê”tB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€æœ€åˆã®ä¸€å›žã‚’è¦‹ãŸã“ã¨ã§å¥‡å¦™ãªéœŠæ„Ÿã§ã‚‚å—ã‘ãŸã®ã‹ã€é­…å…¥ã‚‰ã‚ŒãŸã‚ˆã†ã«</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@“MŽ€‚µ‚È‚¢‚Ì‚ª•sŽv‹c‚È—L—l‚¾‚Á‚½B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">å½¼å¥³ã‚’ç²¾æ¶²ã§æ±šã™ã“ã¨ã«å¤¢ä¸­ã«ãªã£ãŸã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|200ŸŸ’j‚½‚¿</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\ChuA-lop.ogg|SE2|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘10.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€é«ªã‚’æ±šã—ã€è€³ã‚’æ±šã—ã€é¦–ã‚’æ±šã—ã€é¼»ã®ç©´ã«å°„ç²¾ã™ã‚‹ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€ä½•åº¦å‡ºã—ã¦ã‚‚åŽã¾ã‚‰ãªã„ã®ã‹ã€ä¸€äººãŒä½•åº¦ã‚‚å°„ç²¾ã—ã¦ã€Feenaã®å§¿ã¯</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">é ­ã‹ã‚‰ã‚¶ãƒ¼ãƒ¡ãƒ³ã‚’ãƒã‚±ãƒ„ã§æµ´ã³ã›ãŸã‚ˆã†ã«ãªã£ã¦ã—ã¾ã£ã¦ã„ãŸã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","200ŸŸ’j‚½‚¿.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"‚àcc‚à‚¤A–é‚ª–¾‚¯‚écccc"</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ƒ„‚è‘«‚è‚Ë‚¥cc‚Å‚àA”æ‚ê‚½cc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦â€¦â€¦ã‹ã£â€¦â€¦ã¯ã£â€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‘OŒi|$000000|NORMAL|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€Feenaã¯ã‚‚ã†æŠ—è­°ã™ã‚‹å…ƒæ°—ã‚‚ä½¿ã„æžœãŸã—ã€ã‚ãšã‹ãªæ©Ÿä¼šã§æ¯ç¶™ãŽã™ã‚‹</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã ã‘ã§ç²¾ä¸€æ¯ã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">ã€€æººæ­»ã—ãªã„ã®ãŒä¸æ€è­°ãªæœ‰æ§˜ã ã£ãŸã€‚</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|200â—†â—†ç”·ãŸã¡</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","200â—†â—†ç”·ãŸã¡.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ã‚‚â€¦â€¦ã‚‚ã†ã€å¤œãŒæ˜Žã‘ã‚‹â€¦â€¦â€¦â€¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"ãƒ¤ã‚Šè¶³ã‚Šã­ã‡â€¦â€¦ã§ã‚‚ã€ç–²ã‚ŒãŸâ€¦â€¦"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|å‰æ™¯|$000000|NORMAL|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
@@ -2369,67 +2371,67 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚»‚µ‚ÄA’©“ú‚ª¸‚é‚Æ\\B</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ãã—ã¦ã€æœæ—¥ãŒæ˜‡ã‚‹ã¨â€•â€•ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ˆÊ’u•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\00.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ä½ç½®å¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\00.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒ|[ƒY•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\³–Ê.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒãƒ¼ã‚ºå¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\æ­£é¢.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|•\î|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\³–Ê\•\î\³–Êy•\î‰õzâ–].gal|NORMAL||||||</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|è¡¨æƒ…|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\æ­£é¢\è¡¨æƒ…\æ­£é¢ã€è¡¨æƒ…å¿«ã€‘çµ¶æœ›.gal|NORMAL||||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ŠçF|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\³–Ê\•\î\³–ÊyŠçFzãµ’p.gal|NORMAL||||||</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|é¡”è‰²|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\æ­£é¢\è¡¨æƒ…\æ­£é¢ã€é¡”è‰²ã€‘ç¾žæ¥.gal|NORMAL||||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|‰‰o|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\³–Ê\ƒyƒjƒX\³–Êy‚Ê‚éz‘S‘Ì2.gal|NORMAL||||||</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|æ¼”å‡º|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\æ­£é¢\ãƒšãƒ‹ã‚¹\æ­£é¢ã€ã¬ã‚‹ã€‘å…¨ä½“2.gal|NORMAL||||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|NPC3|ƒOƒ‰ƒtƒBƒbƒN\NPC\’jƒ‚ƒu01\˜VlA.gal|NORMAL|#1|L|T|120|||||</EventArg>
+					<EventArg Type="Str">CREATECG|NPC3|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\NPC\ç”·ãƒ¢ãƒ–01\è€äººA.gal|NORMAL|#1|L|T|120|||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|îŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\Ž©‘R\Ž©‘R03XF.gal|NORMAL|#1|36|36|10|||||</EventArg>
+					<EventArg Type="Str">CREATECG|æƒ…æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\è‡ªç„¶\è‡ªç„¶03æ£®F.gal|NORMAL|#1|36|36|10|||||</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‘OŒi,NPC,NPC2|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,å‰æ™¯,NPC,NPC2|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|210ŸŸ’·˜V</EventArg>
+					<EventArg Type="Str">NAMELABEL|210â—†â—†é•·è€</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","210ŸŸ’·˜V.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","210â—†â—†é•·è€.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cc‚±‚¤‚È‚é‚Æ‚ÍŽv‚Á‚Ä‚¨‚Á‚½‚ªccB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦ã“ã†ãªã‚‹ã¨ã¯æ€ã£ã¦ãŠã£ãŸãŒâ€¦â€¦ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@‚³‚·‚ª‚É“‚·‚¬‚é‚Ì‚¤cc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã•ã™ãŒã«é…·ã™ãŽã‚‹ã®ã†â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"cccccccccccccc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2438,13 +2440,13 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@¸‰t‚Ü‚Ý‚ê‚É‚³‚êAŽ€‘Ì‚Ì‚æ‚¤‚É“]‚ª‚Á‚½Feena‚Ì‘ÌB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ç²¾æ¶²ã¾ã¿ã‚Œã«ã•ã‚Œã€æ­»ä½“ã®ã‚ˆã†ã«è»¢ãŒã£ãŸFeenaã®ä½“ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@“ê‚ð‰ð‚©‚ê‚Ä‚àA”Þ—‚Í‚®‚Á‚½‚è‚Æ“®‚¯‚È‚¢‚Ü‚Ü‚¾‚Á‚½ccB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ç¸„ã‚’è§£ã‹ã‚Œã¦ã‚‚ã€å½¼å¥³ã¯ãã£ãŸã‚Šã¨å‹•ã‘ãªã„ã¾ã¾ã ã£ãŸâ€¦â€¦ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2459,16 +2461,16 @@
 					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊˆêŽžÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ˆÊ’u•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\00.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ä½ç½®å¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\00.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CHANGECG|ƒ|[ƒY•ÏX|ƒOƒ‰ƒtƒBƒbƒN\ƒLƒƒƒ‰\ƒRƒ}ƒ“ƒh\—§‚¿.gal|NORMAL|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CHANGECG|ãƒãƒ¼ã‚ºå¤‰æ›´|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ã‚­ãƒ£ãƒ©\ã‚³ãƒžãƒ³ãƒ‰\ç«‹ã¡.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‘OŒi|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,å‰æ™¯|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2483,7 +2485,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -2506,7 +2508,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="68" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -2545,7 +2547,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="72" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -2553,13 +2555,13 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="73" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="0">
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊˆêŽžÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PLAYSND|BGM\bgm_evergreen2.mid|BGM|REPEAT|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">CREATECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º08.gal|NORMAL|#1|C|B|1000|||||</EventArg>
+					<EventArg Type="Str">CREATECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘08.gal|NORMAL|#1|C|B|1000|||||</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]</EventArg>
@@ -2571,7 +2573,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -2594,7 +2596,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="74" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -2604,7 +2606,7 @@
 			<Array Name="Params"></Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="75" Diff="1">
-			<Label Script="ƒƒbƒZ[ƒWƒ{ƒbƒNƒXì¬.lsb" Target="0" />
+			<Label Script="ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹ä½œæˆ.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -2614,7 +2616,7 @@
 			<Array Name="Params">
 				<Array Name="__ARG_0__">
 					<Param Name="____0" Calc="" Type="1">
-						<Str Name="">•W€“§–¾</Str>
+						<Str Name="">æ¨™æº–é€æ˜Ž</Str>
 					</Param>
 					<Param Name="____arg" Calc="" Type="1">
 						<Var Name="">____0</Var>
@@ -2624,7 +2626,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="76" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -2632,46 +2634,46 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="77" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="1">
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‰æ–ÊˆêŽžÁ‹Ž|14|200|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|14|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">NAMELABEL|001šššŽålŒö</EventArg>
+					<EventArg Type="Str">NAMELABEL|001â˜…â˜…â˜…ä¸»äººå…¬</EventArg>
 				</Event>
 				<Event Command="HistChar">
 					<EventArg Type="Str"></EventArg>
 					<EventArg Type="Int">50</EventArg>
 					<EventArg Type="Int">0</EventArg>
-					<EventArg Type="Str">DBDirectGetStr("DB–¼‘O‘ã‘Ö","‰æ‘œ","001šššŽålŒö.gal",FALSE,FALSE,"•¶Žš—ñ","")</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DBåå‰ä»£æ›¿","ç”»åƒ","001â˜…â˜…â˜…ä¸»äººå…¬.gal",FALSE,FALSE,"æ–‡å­—åˆ—","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ccNo, I can't drink any morecccc</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"â€¦â€¦ã‚‚ã†ã€é£²ã‚ãªã„ã‚Œãµâ€¦â€¦â€¦â€¦</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@Forgive mecccc"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚†ã‚‹ã—ã¸â€¦â€¦â€¦â€¦"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]PLAYSND|Œø‰Ê‰¹\H…‰¹\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
+					<EventArg Type="Str">[\x01]PLAYSND|åŠ¹æžœéŸ³\Hæ°´éŸ³\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‘OŒi|ƒOƒ‰ƒtƒBƒbƒN\ƒrƒWƒ…ƒAƒ‹\H‰æ‘œ\07ƒmƒY‘º10.gal|NORMAL|#1|C|B|1000|14|200|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|å‰æ™¯|ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯\ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«\Hç”»åƒ\07ãƒŽã‚ºæ‘10.gal|NORMAL|#1|C|B|1000|14|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">*Cough, coughcc!!*</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"ã’ã»ã€ã’ã»ã£â€¦â€¦ï¼ï¼</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">@NehccNEEEEEEcc``EHcc!!"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">ã€€ã‚“ãˆã£â€¦â€¦ã‚“ã‡ãˆãˆãˆãˆãˆã£â€¦â€¦ï½žï½žã£â€¦â€¦ï¼ï¼"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2686,10 +2688,10 @@
 					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]CREATECG|‰æ–ÊˆêŽžÁ‹Ž|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]CREATECG|ç”»é¢ä¸€æ™‚æ¶ˆåŽ»|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
 				</Event>
 				<Event Command="Event">
-					<EventArg Type="Str">[\x01]DELETECG|‰æ–ÊÁ‹Ž,‘OŒi|1|0|0|0||1</EventArg>
+					<EventArg Type="Str">[\x01]DELETECG|ç”»é¢æ¶ˆåŽ»,å‰æ™¯|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2704,7 +2706,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -2727,7 +2729,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="78" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -2766,7 +2768,7 @@
 		</Item>
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="82" Diff="1">
 			<Array Name="Calc">
-				<Param Name="__ƒƒbƒZ[ƒWI—¹" Calc="" Type="1">
+				<Param Name="__ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸çµ‚äº†" Calc="" Type="1">
 					<Flag Name="">FALSE</Flag>
 				</Param>
 			</Array>
@@ -2774,7 +2776,7 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="83" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="1">
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">‘º‚Å‘ß•ßB</EventArg>
+					<EventArg Type="CharString" ExtraData="50">æ‘ã§é€®æ•ã€‚</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -2789,7 +2791,7 @@
 
 			<Array Name="__UNK_1__">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ƒƒbƒZ[ƒWƒ{ƒbƒNƒX</Str>
+					<Str Name="">ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹</Str>
 				</Param>
 				<Param Name="____arg" Calc="" Type="1">
 					<Var Name="">____0</Var>
@@ -2812,7 +2814,7 @@
 			</Array>
 		</Item>
 		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="84" Diff="1">
-			<Label Script="ƒmƒxƒ‹ƒVƒXƒeƒ€\ƒƒbƒZ[ƒWƒ{ƒbƒNƒX\I—¹‘Ò‚¿.lsb" Target="0" />
+			<Label Script="ãƒŽãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ \ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒœãƒƒã‚¯ã‚¹\çµ‚äº†å¾…ã¡.lsb" Target="0" />
 			<Str Name="Result"></Str>
 			<Array Name="Calc">
 				<Param Name="____arg" Calc="" Type="1">
@@ -2853,7 +2855,7 @@
 			<Label Script="000035FA.lsb" Target="79" />
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ƒV[ƒ“‰ñ‘zA</Var>
+					<Var Name="">ã‚·ãƒ¼ãƒ³å›žæƒ³A</Var>
 					<Int Name="">7</Int>
 				</Param>
 				<Param Name="____2" Calc="" Type="16">
@@ -2896,7 +2898,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="92" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">HPŠ„‡</Var>
+					<Var Name="">HPå‰²åˆ</Var>
 					<Int Name="">1</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
@@ -2907,7 +2909,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="93" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ŽålŒöó‘Ô</Var>
+					<Var Name="">ä¸»äººå…¬çŠ¶æ…‹</Var>
 					<Int Name="">1</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
@@ -2918,7 +2920,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="94" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">ŽålŒöó‘Ô</Var>
+					<Var Name="">ä¸»äººå…¬çŠ¶æ…‹</Var>
 					<Int Name="">4</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
@@ -2929,10 +2931,10 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="96" Diff="2">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">â</Str>
+					<Str Name="">éž˜</Str>
 				</Param>
 				<Param Name="____d_1" Calc="" Type="10">
-					<Var Name="">‘•”õ–¼</Var>
+					<Var Name="">è£…å‚™å</Var>
 					<Int Name="">10</Int>
 				</Param>
 				<Param Name="____d_1" Calc="" Type="1">
@@ -2943,9 +2945,9 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="97" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">—§‚¿S‘©</Str>
+					<Str Name="">ç«‹ã¡æ‹˜æŸ</Str>
 				</Param>
-				<Param Name="—§‚¿ŠGƒ|[ƒYŽw’è" Calc="" Type="1">
+				<Param Name="ç«‹ã¡çµµãƒãƒ¼ã‚ºæŒ‡å®š" Calc="" Type="1">
 					<Var Name="">____0</Var>
 				</Param>
 			</Array>
@@ -2953,9 +2955,9 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="98" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">”¼‹ƒ‚«</Str>
+					<Str Name="">åŠæ³£ã</Str>
 				</Param>
-				<Param Name="—§‚¿ŠG•\îŽw’è" Calc="" Type="1">
+				<Param Name="ç«‹ã¡çµµè¡¨æƒ…æŒ‡å®š" Calc="" Type="1">
 					<Var Name="">____0</Var>
 				</Param>
 			</Array>
@@ -2963,9 +2965,9 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="99" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">ãµ’p</Str>
+					<Str Name="">ç¾žæ¥</Str>
 				</Param>
-				<Param Name="—§‚¿ŠGŠçFŽw’è" Calc="" Type="1">
+				<Param Name="ç«‹ã¡çµµé¡”è‰²æŒ‡å®š" Calc="" Type="1">
 					<Var Name="">____0</Var>
 				</Param>
 			</Array>
@@ -2973,7 +2975,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="103" Diff="4">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">—§‚¿ŠG•\Ž¦Ý’è</Var>
+					<Var Name="">ç«‹ã¡çµµè¡¨ç¤ºè¨­å®š</Var>
 					<Int Name="">19</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
@@ -2984,7 +2986,7 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="105" Diff="2">
 			<Array Name="Calc">
 				<Param Name="____d_0" Calc="" Type="10">
-					<Var Name="">—§‚¿ŠG•\Ž¦Ý’è</Var>
+					<Var Name="">ç«‹ã¡çµµè¡¨ç¤ºè¨­å®š</Var>
 					<Int Name="">15</Int>
 				</Param>
 				<Param Name="____d_0" Calc="" Type="1">
