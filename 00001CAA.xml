@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<LMScript Name="00001CAA.lsb">
+	<Header Version="117" Flag="1">
+		<Properties>
+			<Property Id="0">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="1">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="2">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="3">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="4">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="5">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="6">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="7">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="8">7f 7f 00 28 fc 8b 00 00 80 00 01 00 88 00 f2 00 40 00 bf 00 18 00</Property>
+			<Property Id="9">9f 78 00 ac fc 9f 00 00 80 00 01 01 98 80 f3 00 50 00 bf 00 98 07</Property>
+			<Property Id="10">7b f8 7d 0e ff cb 00 00 00 00 07 00 a8 00 f2 00 00 e0 bf 01 20 00</Property>
+			<Property Id="11">01 00 00 0c 02 00 00 00 80 00 00 00 00 00 00 00 00 00 80 00 00 00</Property>
+			<Property Id="12">9f 78 00 fc fc 9b 00 00 80 00 01 00 98 80 f3 00 50 08 ff 40 80 03</Property>
+			<Property Id="13">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="14">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="15">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="16">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="17">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="18">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="19">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="20">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="21">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="22">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="23">1f 70 00 38 fc 9b 00 00 80 00 01 00 88 00 f2 00 40 08 bf 40 00 00</Property>
+			<Property Id="24">9f f8 0f aa fc 8b 24 00 80 00 01 00 98 00 f2 00 50 00 bf 00 80 03</Property>
+			<Property Id="25">1b 9f ef 0f fc 83 fe ff ff 3f 01 00 8a 03 f2 00 c0 e1 bf 1e 00 00</Property>
+			<Property Id="26">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="27">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="28">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="29">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="30">9f f8 0b 8a 0e 8c 04 00 80 00 f9 01 98 80 f3 00 70 00 bf 00 98 07</Property>
+			<Property Id="31">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="32">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="33">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="34">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="35">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="36">7f 78 00 0c fc 93 00 00 00 00 01 f0 c9 00 f2 01 40 00 bf 00 00 00</Property>
+			<Property Id="37">9b 70 00 08 fc 83 00 00 00 00 01 0e 98 00 f2 00 50 00 bf 00 00 03</Property>
+			<Property Id="38">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="39">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="40">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="41">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="42">05 00 00 7c 00 18 00 00 80 00 00 00 00 00 00 00 00 08 80 40 04 00</Property>
+			<Property Id="43">7b e1 0b 08 02 80 04 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="44">7b e1 0b 08 02 80 24 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="45">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="46">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="47">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="48">1f 78 00 08 fc 87 00 00 80 03 09 00 88 07 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="49">7b 70 00 0c fc 83 00 00 00 00 01 00 88 18 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="50">ff 18 00 08 fc 87 00 00 00 00 01 00 88 e0 ff 00 50 00 bf 00 18 03</Property>
+			<Property Id="51">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 80 01 bf 20 00 04</Property>
+			<Property Id="52">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 81 01 bf 20 00 04</Property>
+			<Property Id="53">1f 78 00 0c fc 83 00 00 00 00 01 00 88 00 f2 79 00 02 bf 20 00 00</Property>
+			<Property Id="54">1f 78 04 08 fc 83 24 00 00 00 01 00 88 00 f2 00 4e 00 bf 00 00 00</Property>
+			<Property Id="55">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="56">1f 70 00 08 00 88 00 00 80 03 01 00 08 03 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="57">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="58">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="59">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="60">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="61">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="62">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="63">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+		</Properties>
+	</Header>
+	<Body>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="0" Diff="0">
+			<Label Script="00001CAA.lsb" Target="3" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1" Diff="1">
+			<SetLabel>変数削除</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="2" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="3" Diff="1">
+			<SetLabel>00001CAB</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="4" Diff="1">
+			<Label Script="00001CAA.lsb" Target="44" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="5" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="6" Diff="1">
+			<SetLabel>00001CB2</SetLabel>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="7" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="8" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">35</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Var Name="">____d_2</Var>
+				</Param>
+				<Param Name="____0" Calc="Max" Type="11">
+					<Var Name="">____1</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">35</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="9" Diff="1">
+			<Label Script="00001CAA.lsb" Target="54" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="10" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="11" Diff="1">
+			<SetLabel>00001CB3</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="12" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="13" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\ChupuA-L.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|ペニス|QUAKE|0|5|5|200|10</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> A man soon split Feena's legs, and thrust his body between them.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Wha-…?! N-No… You're lying..!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Aah! Aaaahn?!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> The show went on, the air hot with steamy breaths. The man violated</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> her, as everyone else defiled Feena's body with their hands.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="14" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="15" Diff="1">
+			<Label Script="00001CAA.lsb" Target="62" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="16" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="17" Diff="1">
+			<SetLabel>00001CB4</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="18" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="19" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Eeek, aah…! Aaahn…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Oooh, mmm…!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Their sweaty hands twisted her nipples and fingered her pussy, causing Feena to convulse with foreign pleasure.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> From all directions, the men's hands swarmed all over Feena's vulnerable body.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Her ass, her mouth, her pussy; every hole was filled with thick, burly fingers.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Whenever they came out, they were dripping with her fluids…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|200◆◆男たち</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男たち.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"After going this far, it doesn't matter what we do. Let's fuck her."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"You're right!" "Yeah!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="20" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="21" Diff="1">
+			<Label Script="00001CAA.lsb" Target="23" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="22" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="23" Diff="1">
+			<SetLabel>00001CB5</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="24" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="26" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="27" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">ショック</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="28" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\拘束\正面【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="33" Diff="1">
+			<Label Script="00001CAA.lsb" Target="11" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="34" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="35" Diff="1">
+			<SetLabel>00001CB6</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="37" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="2">
+					<Var Name="">快楽値</Var>
+					<Int Name="">30</Int>
+				</Param>
+				<Param Name="快楽値" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="38" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">快楽値</Var>
+					<Int Name="">100</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="39" Diff="1">
+			<Array Name="Calc">
+				<Param Name="快楽値" Calc="" Type="1">
+					<Int Name="">99</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="41" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">HP割合</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="43" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">屈辱</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="45" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="47" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="49" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\拘束\正面【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="50" Diff="1">
+			<Label Script="00001CAA.lsb" Target="17" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="51" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="52" Diff="1">
+			<SetLabel>00001CB8</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="53" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="54" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="55" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">標準透明</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="57" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="58" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> With no way to escape, the audience inevitably started</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> to touch Feena more boldly.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Her limbs were overpowered, and she was held down like a fish on a cutting board.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> On the stage, in front of everyone, the men groped her entire body…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="59" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="60" Diff="1">
+			<Label Script="00001CAA.lsb" Target="32" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="61" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="62" Diff="1">
+			<SetLabel>00001CB9</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="63" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="64" Diff="1">
+			<SetLabel>00001CBA</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="65" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="66" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaE.ogg|SE2|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|ペニス|QUAKE|0|5|5|500|50</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Nnh… Aah… Eek?!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaE.ogg|SE2|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|ペニス|QUAKE|0|5|5|500|50</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> The man suddenly came all over Feena's body, dirtying her with his semen.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="67" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="68" Diff="1">
+			<Label Script="00001CAA.lsb" Target="80" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="69" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="70" Diff="1">
+			<SetLabel>00001CBB</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="71" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="72" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="14">
+					<Var Name="">____d_0</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="73" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">4</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="75" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="76" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">イヤッ</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="77" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="79" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="81" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\拘束\正面【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="82" Diff="1">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">ペニス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\ペニス\正面【ペニス外】前射精.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="83" Diff="1">
+			<Label Script="00001CAA.lsb" Target="56" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="84" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="85" Diff="1">
+			<SetLabel>00001CBC</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="86" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="87" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> But there was no reason to release Feena yet. Another</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> man quickly shoved his cock in her mouth. The taste of his rancid</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> dick filled her senses. Lustful hands groped her breasts, her ass, everywhere.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Nngh… Nnnh!!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaD.ogg|SE2|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="88" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="89" Diff="1">
+			<Label Script="00001CAA.lsb" Target="95" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="90" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="91" Diff="1">
+			<SetLabel>00001CBD</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="92" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">30</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="94" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">前座りもじ</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="95" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">絶望</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="96" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="98" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="100" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\前\拘束\前【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="101" Diff="1">
+			<Label Script="00001CAA.lsb" Target="74" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="102" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="103" Diff="1">
+			<SetLabel>00001CBE</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="104" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="105" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Under the stage's lights, many men, whether for the first time or once again,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> put their cocks inside Feena. The puddle of cum beneath her made a vulgar sloshing</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> sound when they fucked her. The girl's pale white body was afloat in a sea of men.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> All in all, the Gangbang Show was a great success.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="106" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="107" Diff="1">
+			<Label Script="00001CAA.lsb" Target="116" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="108" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="109" Diff="1">
+			<SetLabel>00001CBF</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="111" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="2">
+					<Var Name="">快楽値</Var>
+					<Int Name="">50</Int>
+				</Param>
+				<Param Name="快楽値" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="112" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">快楽値</Var>
+					<Int Name="">100</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="113" Diff="1">
+			<Array Name="Calc">
+				<Param Name="快楽値" Calc="" Type="1">
+					<Int Name="">99</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="115" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="116" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="14">
+					<Var Name="">____d_0</Var>
+					<Int Name="">5</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="117" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">5</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="119" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">前座りもじ</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="120" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">耐える</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="121" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="123" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="125" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\前\拘束\前【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="126" Diff="1">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">ペニス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\前\ペニス\前【ペニス外】全体射精.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="127" Diff="1">
+			<Label Script="00001CAA.lsb" Target="140" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="128" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="129" Diff="1">
+			<SetLabel>00001CC0</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="130" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="131" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|001★★★主人公</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Aaah… This is… amaaazing…!)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Surrounded by men, Feena's body danced in ecstasy against her will…</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|3000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|3000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面消去|$000000|NORMAL|#1|C|B|1010|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="132" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="133" Diff="1">
+			<Label Script="00001CAA.lsb" Target="155" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="134" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="135" Diff="1">
+			<SetLabel>00001CC1</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="136" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">30</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="138" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="139" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">号泣</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="140" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="142" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="144" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\拘束\正面【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="145" Diff="1">
+			<Label Script="00001CAA.lsb" Target="110" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="146" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="147" Diff="1">
+			<SetLabel>00001CCC</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="149" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="151" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="152" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">屈辱</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="153" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="155" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="157" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\ダミー.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="158" Diff="1">
+			<Label Script="00001CAA.lsb" Target="134" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="159" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="160" Diff="1">
+			<SetLabel>00001CCD</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="161" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="162" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|画面消去|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="163" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="164" Diff="1">
+			<Label Script="00001CAA.lsb" Target="6" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="165" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="166" Diff="1">
+			<SetLabel>00001DEE</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="167" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="168" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|ペニス|QUAKE|0|5|5|500|50</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Feena's mouth hung open, his cloudy slime spilling out</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> and becoming lotion for the hands that rubbed her all over.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Every time they even so much as grazed her sensitive clitoris,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> a shockwave of pleasure rattled through her brain.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="169" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="170" Diff="1">
+			<Label Script="00001CAA.lsb" Target="146" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="171" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="172" Diff="1">
+			<SetLabel>00001DEF</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="173" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">主人公状態</Var>
+					<Int Name="">2</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">30</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="175" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">正面</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="176" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">絶望</Str>
+				</Param>
+				<Param Name="立ち絵表情指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="177" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">19</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">21</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="179" Diff="2">
+			<Label Script="000000FD.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="SetProp" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="181" Diff="2">
+			<Array Name="ObjName">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">演出</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="ObjProp">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">2</Int>
+				</Param>
+			</Array>
+			<Array Name="Value">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">グラフィック\キャラ\正面\拘束\正面【男手】全体.gal</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="182" Diff="1">
+			<Label Script="00001CAA.lsb" Target="89" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="183" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="184" Diff="1">
+			<SetLabel>00003F70</SetLabel>
+		</Item>
+		<Item Command="WhileInit" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="186" Diff="2">
+			<Array Name="__UNK__">
+				<Param Name="ループ数" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="While" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="186" Diff="0">
+			<Array Name="__UNK__">
+				<Param Name="____0" Calc="" Type="16">
+					<Var Name="">ループ数</Var>
+					<Int Name="">49</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Int Name="__UNK_2__">160</Int>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="187" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">絶頂回数</Var>
+					<Var Name="">ループ数</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="2">
+					<Var Name="">ループ数</Var>
+					<Int Name="">50</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">絶頂回数</Var>
+					<Var Name="">____3</Var>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____d_0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="WhileLoop" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="189" Diff="2">
+			<Array Name="__UNK__">
+				<Param Name="____0" Calc="" Type="2">
+					<Var Name="">ループ数</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="ループ数" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Int Name="__UNK_2__">157</Int>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="189" Diff="0">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">汎用輪姦</Str>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定文字列</Var>
+					<Int Name="">3</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="191" Diff="2">
+			<Label Script="00001D6C.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="193" Diff="2">
+			<Label Script="00001CAA.lsb" Target="125" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="194" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+	</Body>
+</LMScript>
