@@ -237,7 +237,7 @@
 			<Array Name="Params">
 				<Array Name="__ARG_0__">
 					<Param Name="____0" Calc="" Type="1">
-						<Str Name="">Password</Str>
+						<Str Name="">Enter Password</Str>
 					</Param>
 					<Param Name="____arg" Calc="" Type="1">
 						<Var Name="">____0</Var>
