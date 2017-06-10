@@ -1432,13 +1432,13 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　With greed on their faces, the viliegers jugded Feena's naked body</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　With greed on their faces, the villagers judged Feena's naked body</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">股間を勃起させていた男たちなのだった。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">As the men got erections.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1453,19 +1453,19 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男たち.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"お？　ちょうどいい高さにおクチが開いてるぞ。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Oh?　That mouth is the perfect hight, open up.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　何か突っ込んで欲しいのかな？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">Don't you want this?"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"いいねえ。縄を解くわけにはいかないから、物足りなかったトコだ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Nice, we can’t undo the rope so we’ll have to do with this"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1480,7 +1480,7 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　男たちは、Feenaの鼻先でボロリと性器を露出させてみせた。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">The men exposed their penises with before Feena’s nose</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1498,7 +1498,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"っ……！　ヤっ……！　やだあっ、近づけないでっ……！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"...!　No...!　don't, show that to me..."</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1513,13 +1513,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男たち.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"そんなに怯えなくてもいいだろう"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"There is no need to be so scared"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"お前のは臭いから嫌だってよ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"It's because yours smells so bad"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1534,7 +1534,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"そ、そういう問題ではなくって……！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"wa, what nonsense is that!"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1549,13 +1549,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\200◆◆男A.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"いいから黙って口開けなよ。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Forget that, be quiet and open up.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　オオカミの餌になるよりはいいだろ？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　You don't want to become wolf, food do you?"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
