@@ -1585,13 +1585,13 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　食いしばった唇の前で、勃起したペニスが振られて、Feenaの鼻面を</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Feena closed her lips and clenched her teeth</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">突っつき回す。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">rejecting the penis poking at her mouth</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1606,13 +1606,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\200◆◆男A.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"この程度の恩返しもしない気なら、もっと酷い目に遭わせるぞ？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"If you wont do this for us we will do much worse</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　お前はどうせ死んだっていい罪人なんだからなぁ。わかってんの？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　You were meant to die as a criminal. Understood?"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1630,7 +1630,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"っ…………"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">".........."</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -1639,7 +1639,7 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　あからさまに脅されて、抵抗する気力が萎えていく。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　After that clear threat her stength  fadedあからさまに脅されて、抵抗する気力が萎えていく。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
