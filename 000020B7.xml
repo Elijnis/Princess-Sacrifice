@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<LMScript Name="000020B7.lsb">
+	<Header Version="117" Flag="1">
+		<Properties>
+			<Property Id="0">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="1">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="2">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="3">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="4">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="5">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="6">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="7">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="8">7f 7f 00 28 fc 8b 00 00 80 00 01 00 88 00 f2 00 40 00 bf 00 18 00</Property>
+			<Property Id="9">9f 78 00 ac fc 9f 00 00 80 00 01 01 98 80 f3 00 50 00 bf 00 98 07</Property>
+			<Property Id="10">7b f8 7d 0e ff cb 00 00 00 00 07 00 a8 00 f2 00 00 e0 bf 01 20 00</Property>
+			<Property Id="11">01 00 00 0c 02 00 00 00 80 00 00 00 00 00 00 00 00 00 80 00 00 00</Property>
+			<Property Id="12">9f 78 00 fc fc 9b 00 00 80 00 01 00 98 80 f3 00 50 08 ff 40 80 03</Property>
+			<Property Id="13">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="14">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="15">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="16">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="17">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="18">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="19">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="20">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="21">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="22">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="23">1f 70 00 38 fc 9b 00 00 80 00 01 00 88 00 f2 00 40 08 bf 40 00 00</Property>
+			<Property Id="24">9f f8 0f aa fc 8b 24 00 80 00 01 00 98 00 f2 00 50 00 bf 00 80 03</Property>
+			<Property Id="25">1b 9f ef 0f fc 83 fe ff ff 3f 01 00 8a 03 f2 00 c0 e1 bf 1e 00 00</Property>
+			<Property Id="26">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="27">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="28">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="29">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="30">9f f8 0b 8a 0e 8c 04 00 80 00 f9 01 98 80 f3 00 70 00 bf 00 98 07</Property>
+			<Property Id="31">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="32">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="33">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="34">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="35">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="36">7f 78 00 0c fc 93 00 00 00 00 01 f0 c9 00 f2 01 40 00 bf 00 00 00</Property>
+			<Property Id="37">9b 70 00 08 fc 83 00 00 00 00 01 0e 98 00 f2 00 50 00 bf 00 00 03</Property>
+			<Property Id="38">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="39">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="40">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="41">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="42">05 00 00 7c 00 18 00 00 80 00 00 00 00 00 00 00 00 08 80 40 04 00</Property>
+			<Property Id="43">7b e1 0b 08 02 80 04 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="44">7b e1 0b 08 02 80 24 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="45">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="46">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="47">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="48">1f 78 00 08 fc 87 00 00 80 03 09 00 88 07 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="49">7b 70 00 0c fc 83 00 00 00 00 01 00 88 18 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="50">ff 18 00 08 fc 87 00 00 00 00 01 00 88 e0 ff 00 50 00 bf 00 18 03</Property>
+			<Property Id="51">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 80 01 bf 20 00 04</Property>
+			<Property Id="52">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 81 01 bf 20 00 04</Property>
+			<Property Id="53">1f 78 00 0c fc 83 00 00 00 00 01 00 88 00 f2 79 00 02 bf 20 00 00</Property>
+			<Property Id="54">1f 78 04 08 fc 83 24 00 00 00 01 00 88 00 f2 00 4e 00 bf 00 00 00</Property>
+			<Property Id="55">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="56">1f 70 00 08 00 88 00 00 80 03 01 00 08 03 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="57">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="58">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="59">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="60">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="61">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="62">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="63">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+		</Properties>
+	</Header>
+	<Body>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="0" Diff="0">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動LV</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="1" Diff="1">
+			<Str Name="Name">変動LV</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="2" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動経験点</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="3" Diff="1">
+			<Str Name="Name">変動経験点</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="4" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動連戦</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="5" Diff="1">
+			<Str Name="Name">変動連戦</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="6" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動所持金</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="7" Diff="1">
+			<Str Name="Name">変動所持金</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="8" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動加虐</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="9" Diff="1">
+			<Str Name="Name">変動加虐</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="10" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動被虐</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="11" Diff="1">
+			<Str Name="Name">変動被虐</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="12" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動痴態</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="13" Diff="1">
+			<Str Name="Name">変動痴態</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="14" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動快楽値</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="15" Diff="1">
+			<Str Name="Name">変動快楽値</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="16" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動着衣</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="17" Diff="1">
+			<Str Name="Name">変動着衣</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="18" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動名声</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="19" Diff="1">
+			<Str Name="Name">変動名声</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="20" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動聖性</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="21" Diff="1">
+			<Str Name="Name">変動聖性</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="22" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動犯罪度</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="23" Diff="1">
+			<Str Name="Name">変動犯罪度</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="24" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動淫売度</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="25" Diff="1">
+			<Str Name="Name">変動淫売度</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="26" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">変動気分</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="27" Diff="1">
+			<Str Name="Name">変動気分</Str>
+			<Byte Name="Type">1</Byte>
+			<Array Name="InitVal">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="28" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列LV</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="29" Diff="1">
+			<Str Name="Name">文字列LV</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列経験点</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="31" Diff="1">
+			<Str Name="Name">文字列経験点</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列連戦</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="33" Diff="1">
+			<Str Name="Name">文字列連戦</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="34" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列所持金</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="35" Diff="1">
+			<Str Name="Name">文字列所持金</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="36" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列加虐</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="37" Diff="1">
+			<Str Name="Name">文字列加虐</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="38" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列被虐</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="39" Diff="1">
+			<Str Name="Name">文字列被虐</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="40" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列痴態</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="41" Diff="1">
+			<Str Name="Name">文字列痴態</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="42" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列快楽値</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="43" Diff="1">
+			<Str Name="Name">文字列快楽値</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列着衣</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="45" Diff="1">
+			<Str Name="Name">文字列着衣</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="46" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列名声</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="47" Diff="1">
+			<Str Name="Name">文字列名声</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="48" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列聖性</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="49" Diff="1">
+			<Str Name="Name">文字列聖性</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="50" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列犯罪度</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="51" Diff="1">
+			<Str Name="Name">文字列犯罪度</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="52" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列淫売度</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="53" Diff="1">
+			<Str Name="Name">文字列淫売度</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="54" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">文字列気分</Str>
+				</Param>
+				<Param Name="____1" Calc="VarExists" Type="11">
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____2" Calc="Not" Type="11">
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="VarNew" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="55" Diff="1">
+			<Str Name="Name">文字列気分</Str>
+			<Byte Name="Type">4</Byte>
+			<Array Name="InitVal">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Byte Name="Scope">1</Byte>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
+			<Label Script="000020B7.lsb" Target="87" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="57" Diff="1">
+			<SetLabel>変数削除</SetLabel>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="58" Diff="1">
+			<Str Name="Name">変動LV</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="59" Diff="1">
+			<Str Name="Name">変動経験点</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="60" Diff="1">
+			<Str Name="Name">変動連戦</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="61" Diff="1">
+			<Str Name="Name">変動所持金</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="62" Diff="1">
+			<Str Name="Name">変動加虐</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="63" Diff="1">
+			<Str Name="Name">変動被虐</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="64" Diff="1">
+			<Str Name="Name">変動痴態</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="65" Diff="1">
+			<Str Name="Name">変動快楽値</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="66" Diff="1">
+			<Str Name="Name">変動着衣</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="67" Diff="1">
+			<Str Name="Name">変動名声</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="68" Diff="1">
+			<Str Name="Name">変動聖性</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="69" Diff="1">
+			<Str Name="Name">変動犯罪度</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="70" Diff="1">
+			<Str Name="Name">変動淫売度</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="71" Diff="1">
+			<Str Name="Name">変動気分</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="72" Diff="1">
+			<Str Name="Name">文字列LV</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="73" Diff="1">
+			<Str Name="Name">文字列経験点</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="74" Diff="1">
+			<Str Name="Name">文字列連戦</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="75" Diff="1">
+			<Str Name="Name">文字列所持金</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="76" Diff="1">
+			<Str Name="Name">文字列加虐</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="77" Diff="1">
+			<Str Name="Name">文字列被虐</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="78" Diff="1">
+			<Str Name="Name">文字列痴態</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="79" Diff="1">
+			<Str Name="Name">文字列快楽値</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="80" Diff="1">
+			<Str Name="Name">文字列着衣</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="81" Diff="1">
+			<Str Name="Name">文字列名声</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="82" Diff="1">
+			<Str Name="Name">文字列聖性</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="83" Diff="1">
+			<Str Name="Name">文字列犯罪度</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="84" Diff="1">
+			<Str Name="Name">文字列淫売度</Str>
+		</Item>
+		<Item Command="VarDel" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="85" Diff="1">
+			<Str Name="Name">文字列気分</Str>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="86" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="87" Diff="1">
+			<SetLabel>000020B8</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="88" Diff="1">
+			<Label Script="000020B7.lsb" Target="90" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="89" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="90" Diff="1">
+			<SetLabel>000020BA</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="93" Diff="3">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="95" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列経験点" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="96" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列所持金" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="97" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列加虐" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="98" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列被虐" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="99" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列名声" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="100" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列聖性" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="101" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列犯罪度" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="102" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列淫売度" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="103" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name=""></Str>
+				</Param>
+				<Param Name="文字列気分" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="105" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">131</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">LV</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動LV" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="106" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">132</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">経験点</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動経験点" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="107" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">133</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">日毎変数</Var>
+					<Int Name="">7</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="3">
+					<Var Name="">____d_1</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動連戦" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="108" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">134</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">所持金</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動所持金" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="109" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">135</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">能力基礎値</Var>
+					<Int Name="">10</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">能力基礎値</Var>
+					<Int Name="">10</Int>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____4" Calc="" Type="2">
+					<Var Name="">____d_2</Var>
+					<Var Name="">____d_1</Var>
+				</Param>
+				<Param Name="____5" Calc="" Type="3">
+					<Var Name="">____4</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動加虐" Calc="" Type="1">
+					<Var Name="">____5</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="110" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">136</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">能力基礎値</Var>
+					<Int Name="">11</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">能力基礎値</Var>
+					<Int Name="">11</Int>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____4" Calc="" Type="2">
+					<Var Name="">____d_2</Var>
+					<Var Name="">____d_1</Var>
+				</Param>
+				<Param Name="____5" Calc="" Type="3">
+					<Var Name="">____4</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動被虐" Calc="" Type="1">
+					<Var Name="">____5</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="111" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">137</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">痴態</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動痴態" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="112" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">138</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">快楽値</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動快楽値" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="113" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">139</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">HP割合</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="3">
+					<Var Name="">____d_1</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動着衣" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="114" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">140</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">名声</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動名声" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="115" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">141</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">聖性</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動聖性" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="116" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">142</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">犯罪度</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動犯罪度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="117" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">143</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">淫売度</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動淫売度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="118" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">144</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Var Name="">気分</Var>
+					<Var Name="">____d_0</Var>
+				</Param>
+				<Param Name="変動気分" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="120" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動経験点</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="121" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name=""> EXP gained!
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動経験点</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列経験点" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="122" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="123" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動経験点</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="124" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　EXP:</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動経験点</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列経験点" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="125" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="127" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動所持金</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="128" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">Ｇ obtained!
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動所持金</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列所持金" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="129" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="130" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動所持金</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="131" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　所持金</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動所持金</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列所持金" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="132" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="134" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動加虐</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="135" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　加虐が</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name=""> point up!
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動加虐</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列加虐" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="136" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="137" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動加虐</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="138" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　加虐</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動加虐</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列加虐" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="139" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="141" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動被虐</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="142" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　被虐が</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name=""> point up!
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動被虐</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列被虐" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="143" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="144" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動被虐</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="145" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　被虐</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Str Name="">
+</Str>
+				</Param>
+				<Param Name="____2" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動被虐</Var>
+				</Param>
+				<Param Name="____3" Calc="" Type="19">
+					<Var Name="">____2</Var>
+					<Var Name="">____1</Var>
+				</Param>
+				<Param Name="文字列被虐" Calc="" Type="1">
+					<Var Name="">____3</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="146" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="148" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動名声</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="149" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Fame+</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動名声</Var>
+				</Param>
+				<Param Name="文字列名声" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="150" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="151" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動名声</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="152" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Fame</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動名声</Var>
+				</Param>
+				<Param Name="文字列名声" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="153" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="155" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動聖性</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="156" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Divinity+</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動聖性</Var>
+				</Param>
+				<Param Name="文字列聖性" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="157" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">10</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="158" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動聖性</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="159" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Divinity</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動聖性</Var>
+				</Param>
+				<Param Name="文字列聖性" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="160" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="162" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動犯罪度</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="163" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Crime+</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動犯罪度</Var>
+				</Param>
+				<Param Name="文字列犯罪度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="164" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="165" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動犯罪度</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="166" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Crime</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動犯罪度</Var>
+				</Param>
+				<Param Name="文字列犯罪度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="167" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="169" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動淫売度</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="170" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Depravity+</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動淫売度</Var>
+				</Param>
+				<Param Name="文字列淫売度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="171" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="172" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動淫売度</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="173" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　Depravity</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動淫売度</Var>
+				</Param>
+				<Param Name="文字列淫売度" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="174" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="176" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="15">
+					<Var Name="">変動気分</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="177" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　気分+</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動気分</Var>
+				</Param>
+				<Param Name="文字列気分" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="178" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="179" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">変動気分</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="180" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">　気分</Str>
+				</Param>
+				<Param Name="____1" Calc="" Type="19">
+					<Var Name="">____0</Var>
+					<Var Name="">変動気分</Var>
+				</Param>
+				<Param Name="文字列気分" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="181" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="2">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="183" Diff="2">
+			<Label Script="000020B7.lsb" Target="229" />
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">踊り</Str>
+				</Param>
+				<Param Name="____d_1" Calc="" Type="10">
+					<Var Name="">各種設定文字列</Var>
+					<Int Name="">4</Int>
+				</Param>
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____4" Calc="" Type="12">
+					<Var Name="">____d_1</Var>
+					<Var Name="">____0</Var>
+				</Param>
+				<Param Name="____6" Calc="" Type="15">
+					<Var Name="">____d_2</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____7" Calc="" Type="8">
+					<Var Name="">____6</Var>
+					<Var Name="">____4</Var>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____7</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="184" Diff="1">
+			<Label Script="000020B7.lsb" Target="217" />
+			<Array Name="Calc">
+				<Param Name="____1" Calc="" Type="15">
+					<Var Name="">ターン数</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="185" Diff="1">
+			<Label Script="000020B7.lsb" Target="187" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="186" Diff="1">
+			<Label Script="000020B7.lsb" Target="177" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="187" Diff="1">
+			<Label Script="000020B7.lsb" Target="175" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="188" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="189" Diff="1">
+			<SetLabel>000020BD</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="190" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="191" Diff="1">
+			<SetLabel>000020BE</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="192" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="193" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="194" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="195" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">(標準)</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="196" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="197" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列所持金</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列経験点</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列加虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列被虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列名声</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列聖性</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列犯罪度</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列淫売度</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="198" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="199" Diff="1">
+			<Label Script="000020B7.lsb" Target="225" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="200" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="201" Diff="1">
+			<SetLabel>000020D0</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="202" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="203" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\[sistem]05アップ.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="204" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="205" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">(標準)</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="206" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="207" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列所持金</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列経験点</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列加虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列被虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列名声</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列聖性</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列犯罪度</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列淫売度</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="208" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="209" Diff="1">
+			<Label Script="000020B7.lsb" Target="225" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="210" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="211" Diff="1">
+			<SetLabel>000020DC</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="212" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="213" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\[sistem]05アップ.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="214" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="215" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">(標準)</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="216" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="217" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列所持金</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列経験点</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列加虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列被虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列名声</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列聖性</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列犯罪度</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列淫売度</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]WAIT|600|CLICK|NORMAL</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">TEXTCLEAR</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="218" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="219" Diff="1">
+			<Label Script="000020B7.lsb" Target="222" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="220" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="221" Diff="1">
+			<SetLabel>000020DD</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="222" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="223" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="224" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="225" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">(標準)</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="226" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="227" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列所持金</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列経験点</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列加虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列被虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列名声</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列聖性</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列犯罪度</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列淫売度</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]WAIT|600|CLICK|NORMAL</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">TEXTCLEAR</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="228" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="229" Diff="1">
+			<Label Script="000020B7.lsb" Target="222" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="230" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="231" Diff="1">
+			<SetLabel>000020DE</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="232" Diff="1">
+			<Label Script="000020B7.lsb" Target="197" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="233" Diff="1">
+			<Label Script="000020B7.lsb" Target="207" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">130</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="234" Diff="1">
+			<Label Script="000020B7.lsb" Target="222" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="235" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="236" Diff="1">
+			<SetLabel>000020DF</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="237" Diff="1">
+			<Label Script="000020B7.lsb" Target="225" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="238" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="239" Diff="1">
+			<SetLabel>000020E2</SetLabel>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="240" Diff="1">
+			<Label Script="00000BD1.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="241" Diff="1">
+			<Label Script="000020B7.lsb" Target="175" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="242" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="243" Diff="1">
+			<SetLabel>000020E5</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="244" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="245" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\[sistem]05アップ.ogg|SE2|NORMAL|800|0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">　</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">ダメージ値</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">Ｇ came flying!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列経験点</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列加虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列被虐</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列名声</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列聖性</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列犯罪度</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">文字列淫売度</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]WAIT|600|CLICK|SKIP</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">TEXTCLEAR</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="246" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="247" Diff="1">
+			<Label Script="000020B7.lsb" Target="222" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="248" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+	</Body>
+</LMScript>

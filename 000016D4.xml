@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<LMScript Name="000016D4.lsb">
+	<Header Version="117" Flag="1">
+		<Properties>
+			<Property Id="0">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="1">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="2">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="3">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="4">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="5">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="6">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="7">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="8">7f 7f 00 28 fc 8b 00 00 80 00 01 00 88 00 f2 00 40 00 bf 00 18 00</Property>
+			<Property Id="9">9f 78 00 ac fc 9f 00 00 80 00 01 01 98 80 f3 00 50 00 bf 00 98 07</Property>
+			<Property Id="10">7b f8 7d 0e ff cb 00 00 00 00 07 00 a8 00 f2 00 00 e0 bf 01 20 00</Property>
+			<Property Id="11">01 00 00 0c 02 00 00 00 80 00 00 00 00 00 00 00 00 00 80 00 00 00</Property>
+			<Property Id="12">9f 78 00 fc fc 9b 00 00 80 00 01 00 98 80 f3 00 50 08 ff 40 80 03</Property>
+			<Property Id="13">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="14">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="15">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="16">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="17">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="18">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="19">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="20">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="21">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="22">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="23">1f 70 00 38 fc 9b 00 00 80 00 01 00 88 00 f2 00 40 08 bf 40 00 00</Property>
+			<Property Id="24">9f f8 0f aa fc 8b 24 00 80 00 01 00 98 00 f2 00 50 00 bf 00 80 03</Property>
+			<Property Id="25">1b 9f ef 0f fc 83 fe ff ff 3f 01 00 8a 03 f2 00 c0 e1 bf 1e 00 00</Property>
+			<Property Id="26">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="27">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="28">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="29">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="30">9f f8 0b 8a 0e 8c 04 00 80 00 f9 01 98 80 f3 00 70 00 bf 00 98 07</Property>
+			<Property Id="31">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="32">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="33">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="34">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="35">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="36">7f 78 00 0c fc 93 00 00 00 00 01 f0 c9 00 f2 01 40 00 bf 00 00 00</Property>
+			<Property Id="37">9b 70 00 08 fc 83 00 00 00 00 01 0e 98 00 f2 00 50 00 bf 00 00 03</Property>
+			<Property Id="38">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="39">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="40">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="41">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="42">05 00 00 7c 00 18 00 00 80 00 00 00 00 00 00 00 00 08 80 40 04 00</Property>
+			<Property Id="43">7b e1 0b 08 02 80 04 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="44">7b e1 0b 08 02 80 24 00 00 00 00 00 04 00 00 00 00 00 80 00 40 00</Property>
+			<Property Id="45">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="46">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="47">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="48">1f 78 00 08 fc 87 00 00 80 03 09 00 88 07 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="49">7b 70 00 0c fc 83 00 00 00 00 01 00 88 18 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="50">ff 18 00 08 fc 87 00 00 00 00 01 00 88 e0 ff 00 50 00 bf 00 18 03</Property>
+			<Property Id="51">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 80 01 bf 20 00 04</Property>
+			<Property Id="52">1f 78 00 08 fe 83 00 00 00 00 01 01 88 00 f2 fe 81 01 bf 20 00 04</Property>
+			<Property Id="53">1f 78 00 0c fc 83 00 00 00 00 01 00 88 00 f2 79 00 02 bf 20 00 00</Property>
+			<Property Id="54">1f 78 04 08 fc 83 24 00 00 00 01 00 88 00 f2 00 4e 00 bf 00 00 00</Property>
+			<Property Id="55">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="56">1f 70 00 08 00 88 00 00 80 03 01 00 08 03 f2 00 40 00 bf 00 00 00</Property>
+			<Property Id="57">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="58">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="59">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="60">01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="61">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="62">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+			<Property Id="63">00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</Property>
+		</Properties>
+	</Header>
+	<Body>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="0" Diff="0">
+			<Label Script="000016D4.lsb" Target="3" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1" Diff="1">
+			<SetLabel>変数削除</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="2" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="3" Diff="1">
+			<SetLabel>000016D5</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="4" Diff="1">
+			<Label Script="000016D4.lsb" Target="32" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="5" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="6" Diff="1">
+			<SetLabel>000016D6</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="7" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="8" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]MESON|-1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面消去|$000000|WAIT|#1|C|B|1020|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> </EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">Meanwhile…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|情景|グラフィック\ビジュアル\建物\建物10神像A.gal|NORMAL|#1|36|36|10|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常閉じ目.gal|NORMAL|#1|C|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|前景,画面消去|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Miss </EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">主人公名前</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> has been in the cave for hours now.)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(</EventArg>
+				</Event>
+				<Event Command="Var">
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Str">主人公名前</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> has been with us for four years now, ever since she was</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> chosen to be the Sacrificial Princess. She was just a little</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> girl back then, and quite the crybaby, but she's blossomed</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> into a gentle and spirited young woman. And yet…)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常無表情.gal|NORMAL|#1|C|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Unable to refuse the people's will, I sent her off as</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> a sacrifice.)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Truth be told, we don't even know for certain that the</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Great Spirit Demea is down there.)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常涙.gal|NORMAL|#1|C|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Demea, if you're really down there, please accept that girl</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> into your grace, and save us weak humans.)</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\ExplosionE@11.ogg|SE|NORMAL|800|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|情景,背景|QUAKE|0|5|5|1000|30</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常無表情.gal|NORMAL|#1|C|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">TEXTCLEAR</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…?</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Noises in the distance…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Coming from outside the monastery?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|BGM\魔王魂-7-イベント10b.mid|BGM|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常真剣.gal|NORMAL|#1|L|B|100|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC2|グラフィック\NPC\男モブ01\騎士A.gal|NORMAL|#1|R|T|100|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|211◆◆神殿衛士</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","211◆◆神殿衛士.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"High Priestess!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> The demon army is attacking!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Attacking?</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> But how…?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…The fort, and the city to the south…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> how could they have gotten past our defenses?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|211◆◆神殿衛士</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","211◆◆神殿衛士.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"They've crossed directly over the eastern mountains! We've</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> closed the gate for now, but it's only a matter of time</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> before they break through.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Please, we must flee immediately!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常閉じ目.gal|NORMAL|#1|L|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"No…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> I cannot abandon the sanctuary now."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|211◆◆神殿衛士</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","211◆◆神殿衛士.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"But it's been… it's been reported that the Dark King</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> himself is among them."</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常真剣.gal|NORMAL|#1|L|B|100|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> That's…!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|211◆◆神殿衛士</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","211◆◆神殿衛士.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"The handful of soldiers stationed at the monastery cannot</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> defend it. We'll all be…"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\ExplosionE@11.ogg|SE|NORMAL|800|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|情景,背景|QUAKE|1|10|10|1000|30</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">A violent tremor shakes the building's foundations,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">cutting their words short.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|211◆◆神殿衛士</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","211◆◆神殿衛士.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"They're here!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\ExplosionE@11.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|白フラッシュ|グラフィック\エフェクト\白フラッシュ0020秒.lmt|SCRAP|#1|C|B|1200|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|前景|グラフィック\ビジュアル\一枚絵\一枚絵闇王襲来.gal|NORMAL|#1|C|C|1000|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]QUAKE|情景,背景,前景|QUAKE|1|20|20|1000|30</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">The monastery gates burst open, and a giant black figure</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">floods the hall with despair.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">The monsters surge inward, slaughtering and brutalizing</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">all in their path.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常真剣.gal|NORMAL|#1|R|B|100|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC2|グラフィック\NPC\モンスター\オーク隊.gal|NORMAL|#1|L|T|50|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|前景|1|500|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物A.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Ooi! There are sows in here, too!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Stay back, demons!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> You may not set foot in this place!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物B</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物B.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Ohoho!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> It's a female…!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物A.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"She's mine! My fucktoy!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常真剣.gal|NORMAL|#1|R|B|100|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Gh…"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|NPC2|グラフィック\NPC\モンスター\オーク隊.gal|NORMAL|#1|C|T|50|||||</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|NPC|グラフィック\NPC\シスターたち\ヘレネ通常真剣.gal|NORMAL|#1|R|B|110|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="9" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="10" Diff="1">
+			<Label Script="メッセージボックス作成.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params">
+				<Array Name="__ARG_0__">
+					<Param Name="____0" Calc="" Type="1">
+						<Str Name="">標準透明</Str>
+					</Param>
+					<Param Name="____arg" Calc="" Type="1">
+						<Var Name="">____0</Var>
+					</Param>
+				</Array>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="11" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="12" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\RipClothA00.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]WAIT|40|CLICK|SKIP</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H道具音\RipClothA00.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱01.gal|NORMAL|#1|C|B|1000|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">The demonic soldiers grab Helene and tear off her religious</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">habit. Her only defense is a single knife, which is</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">violently twisted out of her hands.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物A.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Me first!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaA.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱02.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…!!!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">A massive cock viciously forces her open, tearing at her</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">womanhood from within. It feels as if a red-hot poker were</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">plunged into her nethers.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\GuchuC-L.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物A</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物A.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Groouuugh!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…Kh… agh…</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> aaaaieeeee!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaD.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱03.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">The violent assault reaches its first climax,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">a gush of hot fluid invading her innermost depths.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物B</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物B.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Me next!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Outta the way!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\SyaburuA.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱04.gal|NORMAL|14|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">Countless monsters take turns violating Helene,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">flooding her with their filthy seed.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|モブ\301◆◆魔物X</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","モブ\301◆◆魔物X.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Feels good, right?</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> You gonna moan for us? Hrm?"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"…Hhaah… haaah…"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\chupaC.ogg|SE|NORMAL|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱05.gal|NORMAL|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">As a monster pulls its flaccid cock out from inside her,</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">a torrid mass of semen comes spilling out.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">Screaming is heard in the distance.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]PLAYSND|効果音\H水音\SyaburuC.ogg|SE|REPEAT|1000|0</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|前景3|グラフィック\ビジュアル\H画像\集団01.lcm|NORMAL|#1|C|B|1020|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|前景2|グラフィック\ビジュアル\H画像\集団01.gal|NORMAL|#1|C|B|1010|1|500|0|0||1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Aiiieeeeeeee…!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Aiiieeee… stay away, stay away!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">It is the sound of the young nuns being raped.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Gh… please, stop hitting me…! Don't hurt me!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Auuh..! It hurts… No, what are you d-aaahh, ahh…!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> No… too big, it h-hurts, it hurts too much!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Noo noo no… this is… horrible!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Please… not so rough…"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">"Aiiieeee… please, God… Lady Demea, p-please save us!!!</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50"> Aaahhh… uuuhhh… hn, aagh… AAAH! Please… have mercy…!"</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">The hellish scene runs red with the blood of the monastery guards.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\41ヘレネ陵辱04.gal|NORMAL|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|前景2,前景3|1|500|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">NAMELABEL|101◆◆◆ヘレネ</EventArg>
+				</Event>
+				<Event Command="HistChar">
+					<EventArg Type="Str"></EventArg>
+					<EventArg Type="Int">50</EventArg>
+					<EventArg Type="Int">0</EventArg>
+					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","101◆◆◆ヘレネ.gal",FALSE,FALSE,"文字列","")</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">(Feena, please… be safe!)</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|BGM|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面消去|$000000|NORMAL|#1|C|B|1020|1|200|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]DELETECG|NPC,NPC1,NPC2,NPC3,NPC4,前景,前景2,前景3|1|0|0|0||1</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="13" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="14" Diff="1">
+			<Label Script="000016D4.lsb" Target="27" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="15" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="16" Diff="1">
+			<SetLabel>000016DD</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="18" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="3">
+					<Int Name="">0</Int>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="20" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">消去</Str>
+				</Param>
+				<Param Name="立ち絵ポーズ指定" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="22" Diff="2">
+			<Label Script="00000007.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="23" Diff="1">
+			<Label Script="000016D4.lsb" Target="6" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="24" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="25" Diff="1">
+			<SetLabel>0000184C</SetLabel>
+		</Item>
+		<Item Command="If" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="26" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____1</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="27" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____d_2" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____1" Calc="" Type="1">
+					<Var Name="">____d_2</Var>
+				</Param>
+				<Param Name="____0" Calc="Max" Type="11">
+					<Var Name="">____1</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____d_3" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="28" Diff="1">
+			<Label Script="000016D4.lsb" Target="36" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="29" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="1">
+			<SetLabel>000022AE</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">10</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="34" Diff="2">
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">立ち絵表示設定</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____d_0" Calc="" Type="1">
+					<Int Name="">1</Int>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="35" Diff="1">
+			<Label Script="000016D4.lsb" Target="22" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="36" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="37" Diff="1">
+			<SetLabel>00003478</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="38" Diff="1">
+			<Label Script="000016D4.lsb" Target="47" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">各種設定</Var>
+					<Int Name="">55</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="15">
+					<Var Name="">____d_0</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="39" Diff="1">
+			<Label Script="000016D4.lsb" Target="16" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="40" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="41" Diff="1">
+			<SetLabel>00003479</SetLabel>
+		</Item>
+		<Item Command="Exit" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="42" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="43" Diff="1">
+			<SetLabel>0000347A</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
+			<Label Script="000016D4.lsb" Target="16" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="45" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="46" Diff="1">
+			<SetLabel>0000347E</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="47" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="48" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="1">
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">Advance the story.</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="49" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="50" Diff="1">
+			<Label Script="000016D4.lsb" Target="36" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="51" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="52" Diff="1">
+			<SetLabel>0000347F</SetLabel>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="53" Diff="1">
+			<Label Script="000016D4.lsb" Target="41" />
+			<Array Name="Calc">
+				<Param Name="____d_0" Calc="" Type="10">
+					<Var Name="">シーン回想A</Var>
+					<Int Name="">1</Int>
+				</Param>
+				<Param Name="____2" Calc="" Type="16">
+					<Var Name="">____d_0</Var>
+					<Int Name="">0</Int>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____2</Var>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="54" Diff="1">
+			<Label Script="000016D4.lsb" Target="38" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="55" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Label" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
+			<SetLabel>000034B1</SetLabel>
+		</Item>
+		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="57" Diff="1">
+			<Array Name="Calc">
+				<Param Name="__メッセージ終了" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="58" Diff="1">
+			<EventBlock Name="TpWord102" HasFurigana="0">
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|BGM|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]STOPSND|SE2|1000|PASS</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]CREATECG|画面一時消去|$000000|NORMAL|#1|C|B|1010|1|400|0|0||1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">CREATECG|情景|グラフィック\ビジュアル\情景黒画面.gal|NORMAL|#1|36|36|10|||||</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">1</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">[\x01]</EventArg>
+				</Event>
+				<Event Command="Event">
+					<EventArg Type="Str">MESEND</EventArg>
+				</Event>
+			</EventBlock>
+
+			<Array Name="__UNK_1__">
+				<Param Name="____0" Calc="" Type="1">
+					<Str Name="">メッセージボックス</Str>
+				</Param>
+				<Param Name="____arg" Calc="" Type="1">
+					<Var Name="">____0</Var>
+				</Param>
+			</Array>
+			<Array Name="__UNK_2__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_3__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+			<Array Name="__UNK_4__">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Call" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="59" Diff="1">
+			<Label Script="ノベルシステム\メッセージボックス\終了待ち.lsb" Target="0" />
+			<Str Name="Result"></Str>
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Params"></Array>
+		</Item>
+		<Item Command="Jump" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="60" Diff="1">
+			<Label Script="000016D4.lsb" Target="51" />
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+		</Item>
+		<Item Command="Wait" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="61" Diff="1">
+			<Array Name="Calc">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">TRUE</Flag>
+				</Param>
+			</Array>
+			<Array Name="Time">
+				<Param Name="____arg" Calc="" Type="1">
+					<Int Name="">0</Int>
+				</Param>
+			</Array>
+			<Array Name="StopEvent">
+				<Param Name="____arg" Calc="" Type="1">
+					<Flag Name="">FALSE</Flag>
+				</Param>
+			</Array>
+		</Item>
+	</Body>
+</LMScript>
