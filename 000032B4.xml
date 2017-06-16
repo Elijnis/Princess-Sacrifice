@@ -374,7 +374,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="24" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -415,7 +416,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="26" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -456,7 +458,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="28" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -497,7 +500,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="30" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -538,7 +542,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="32" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -605,7 +610,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="34" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -659,7 +665,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="36" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -700,7 +707,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="38" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -741,7 +749,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="40" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -782,7 +791,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="42" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -823,7 +833,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="44" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -864,7 +875,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="46" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -905,7 +917,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="48" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -959,7 +972,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="50" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1000,7 +1014,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="52" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1041,7 +1056,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="54" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1082,7 +1098,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="56" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1123,7 +1140,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="58" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1164,7 +1182,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="60" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -1205,7 +1224,8 @@
 		<Item Command="Calc" Indent="1" Mute="0" NotUpdate="1" Color="0" Id="62" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="" Type="1">
@@ -2043,7 +2063,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="135" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -2083,7 +2104,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="138" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -4187,19 +4209,19 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ここがエスカマ島――。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"This is Escarmer Island――。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　静かな島ですね。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　It's a quiet island。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　魔物との戦いも、ここにはまだ届いていないみたい"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The fights with the monsters have yet reached this island"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -4214,13 +4236,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","002★★★デメア.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"昔はウェルストン王国の領土で、離宮があったりもしたんだけど……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Once Wellston's territory, there was a remote palace here……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　今はただ、漁村が少しあるだけの島……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　But now this island has only a few fishing villages left……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -4323,7 +4345,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(村の出口です……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(This is the village exit……)</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]</EventArg>
@@ -4517,7 +4539,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(畑と牧草地が広がってます……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(Wide fields of meadows and farms stretch out before you……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -4720,7 +4742,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(牧草地を通る細い道です……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(A narrow road leads through the pasture……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -4910,7 +4932,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……このあたりに、何かありそうな気がします"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……There seems to be something around here"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -5244,13 +5266,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(古い石畳の道が、西の方に続いています……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(An old stone paved path continues towards the west……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　荒れ果てていて、今はもう使われてないみたいです)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Fairly dilapidated, this does not seem to be used anymore)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -5496,7 +5518,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(古い建物の土台跡が並んでいます……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(Traces of old buildings are lined up……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -5642,7 +5664,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(苔の生えた古い門があります)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(An ancient gate overgrown with moss appears)</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -5892,7 +5914,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="492" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -5932,7 +5955,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="495" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -6276,13 +6300,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","205◆◆店主.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"いらっしゃい。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Welcome。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　ここは民宿だけど、雑貨も売ってるよ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　This is a lodge, we also sell merchandise"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]</EventArg>
@@ -6580,13 +6604,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","205◆◆店主.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"この村から見える崖の上には、廃墟があるらしいよ。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"From here you can see the residence ruins on that cliff。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　昔の王様の別荘だったそうだ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　They say this was once the king's retreat"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -6776,13 +6800,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","205◆◆店主.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"あらいやだ！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Oh no！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　島の外の女は、これだから！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　An outsider, because of this！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -6970,13 +6994,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"そこのあんた。待ちなさい。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"You over there, wait a minute。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　森の奥に行く気なら、やめた方がいい"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　If you're thinking about entering the forest, don't"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -6991,13 +7015,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"えっ……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Eh……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　どうしてですか？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Why？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7012,13 +7036,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"俺は見た……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"I saw it……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　崖の上の廃墟に、恐ろしい化け物がいるのを"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A terrifying monster resides within the ruins on the cliff"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7027,7 +7051,7 @@
 					<EventArg Type="Str">[\x01]CREATECG|NPC2|グラフィック\ビジュアル\特殊演出\エスカマ島の魔物1.gal|NORMAL|#1|C|B|1020|1|100|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"熊のように大きく、胴はタコに似ていて、足は四本、腕は三本"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Bear-sized, four feet, three arms and an octopus torso"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7036,13 +7060,13 @@
 					<EventArg Type="Str">[\x01]CHANGECG|NPC2|グラフィック\ビジュアル\特殊演出\エスカマ島の魔物2.gal|NORMAL|1|50|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"全身つるりとした肌色で、尻には毛むくじゃらのシッポがあり、</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"A smooth flesh colored body with a hairy tail</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">背中にはツノが生えている"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">and on its back grows a horn"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7051,19 +7075,19 @@
 					<EventArg Type="Str">[\x01]CHANGECG|NPC2|グラフィック\ビジュアル\特殊演出\エスカマ島の魔物3.gal|NORMAL|1|50|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"顔は人間だが、くちびるが長い。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"His face looks human, but his lips are long。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　頭はハゲているが、チョンマゲのような突起が生えている。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　His head is balding, but he grows a topknot on it.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そして手に持った野菜で襲いかかってくる"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　And he attacks you with the vegetables he's holding"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7084,19 +7108,19 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……あはは。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……Ahaha。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そんな変な魔物、いるわけないじゃないですか。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　As if there's such a strange monster。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　脅かさないで下さいよ、んもー"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Come on, please don't scare me like that-"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7111,19 +7135,19 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"事実だというのに。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"I am telling you the truth, you know。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　信じないなら勝手にすればいい。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　If you don't believe me, just do what you want。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そしてヒドい目に遭え！！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　You're going to have a bad day！！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7282,7 +7306,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ん？　見慣れない顔だね"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Mhm？　Not a face I know"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -7394,13 +7418,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"んおっ！？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ah！？</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　どうしたんだね、そんな格好で"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　What's up, with that appearance"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -7418,13 +7442,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ええと……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Uhmm……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　いろいろと事情がありまして……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A lot of things happened……"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -7596,7 +7620,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="615" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -7636,7 +7661,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="618" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -7676,7 +7702,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="621" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -7995,31 +8022,31 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","207◆◆村人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"このへんの話かい？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"The rumors around here？</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そうだなあ、南の森の池には、妖精が集まるって噂があるな"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　They say fairies gather near a pond in the south forest"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"それと少し前、島に旅の魔術師が来て、崖の上の廃墟に住み着いたらしい。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Before that, a magician has taken residence in the ruins</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　しかし、いつの間にか魔術師の姿は消えて、代わりに怪物が出るように</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　But suddenly he vanished, leaving only monsters going around</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">なったそうだ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">so they say"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -8119,7 +8146,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","350◆◆ニワトリ.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"コケコッコーー！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Cluck cluckーー！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -8137,7 +8164,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"こけこっこー♪"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Cluck clukuck♪"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -8389,7 +8416,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="670" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -8429,7 +8457,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="673" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -8739,7 +8768,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"えいっ！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ey！"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\hit42_b.ogg|SE|NORMAL|800|0</EventArg>
@@ -8926,13 +8955,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"あっ。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ah。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　何か手ごたえが……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Something is reacting……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -8950,7 +8979,7 @@
 					<EventArg Type="Str">[\x01]CHANGECG|表情|グラフィック\キャラ\立ち\表情\立ち【表情喜】笑い.gal|NORMAL|1|0|0|0||0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"宝箱を見つけました！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Found a chest！"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -9409,7 +9438,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"穴の中に宝箱があります"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"There's a chest in the hole"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -10156,7 +10185,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="841" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -10196,7 +10226,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="844" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -10509,7 +10540,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(村の出口です……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(This is the village exit……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -10612,7 +10643,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(村の出口です……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(This is the village exit……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -10715,13 +10746,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(古い石畳の道が、西の方に続いています……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(An old stone paved path continues towards the west……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　荒れ果てていて、今はもう使われてないみたいです)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Fairly dilapidated, this does not seem to be used anymore)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -10745,13 +10776,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(……どこかから、狼の遠吠えが聞こえます。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(……From somewhere you can hear the howling of wolves。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　近いかもしれません)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　They seem to be close)</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -10920,7 +10951,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="893" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -10960,7 +10992,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="896" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -11285,7 +11318,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","303◆◆獣.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……グルルルル……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……Gurururu……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -11309,13 +11342,13 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　いつの間にか、周りに狼の気配が……！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Suddenly you feel the presence of wolves around you……！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　囲まれてるっ……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Surrounded……)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -11612,13 +11645,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"いろんな草が生えてます。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Various plants are growing here。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　役に立つものが見つかるかも……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Maybe there's something helpful to be found……"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]</EventArg>
@@ -12147,7 +12180,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1010" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -12187,7 +12221,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1013" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -12227,7 +12262,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1016" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -12673,7 +12709,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……綺麗な池があります……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……A beautiful pond lies before you……"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -12801,7 +12837,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"この池の周りに、何かないかな……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Around that pond, is there something……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -12840,7 +12876,7 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　茂みの向こうから、声がする……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A voice rings through the thicket)</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -12873,13 +12909,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(あっ……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(Ah……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　妖精が、歌を歌って遊んでる……)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A fairy is frolicing while singing a song……)</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -12979,7 +13015,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"こんにちは、妖精さん"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Hello, Fairy"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -13003,13 +13039,13 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　キャー！！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Kya-！！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　にんげんだ～～～～！！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A human～～～～！！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -13036,7 +13072,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"あぁ……逃げちゃった……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Aah……it escaped……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -13202,7 +13238,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1086" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -13242,7 +13279,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1089" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -13282,7 +13320,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1092" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -13601,13 +13640,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","251◆◆妖精.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"みっつの星からおんなじキョリにー♪</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Three stars, where the distance is the same from eachー♪</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　アレがあるー♪　アレがあるー♪"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　THAT is thereー♪　THAT is thereー♪"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -13759,19 +13798,19 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">(険しい上り坂です……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">(This is a pretty steep hill……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　階段は崩れてしまっています。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The stairs have already collapsed。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　あちこちに砕けた岩が転がってます)</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　All over the place crumbling rocks are tumbling down)</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -13995,7 +14034,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1147" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -14035,7 +14075,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1150" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -14357,7 +14398,7 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　上から岩が転がってきた！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　A rock is rolling down from above！？"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]WAIT|800|CLICK|SKIP</EventArg>
@@ -14735,7 +14776,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","002★★★デメア.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"そういえば、ここに来るときに変な怪物の話を聞いたよね"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Which reminds me……that strange monster they've told me about"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14756,13 +14797,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"たしか……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"If I recall correctly……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　こんなのでしたっけ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　It looked kind of like this"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14780,7 +14821,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","002★★★デメア.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"一応、注意しておいたら？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"For now, let's better be cautious, alright？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14801,13 +14842,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"またまたー……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ah, come on-……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　こんなの、本当にいるわけないですよ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　As if something like this could ever exist"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14831,7 +14872,7 @@
 					<EventArg Type="Str">[\x01]CHANGECG|表情|グラフィック\キャラ\立ち\表情\立ち【表情悲】白目.gal|NORMAL|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"本当にいたーッ！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"It actually exists-！？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14937,13 +14978,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","301◆◆魔物.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'うう……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Uhh……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'よくぞ……私を倒してくれた'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'How magnificent……for you to come slay me'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14958,7 +14999,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"か――怪物が喋った……？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Th-that monster……it talked……？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14973,13 +15014,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","301◆◆魔物.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'困難な変身魔術を完成させるため、この島の廃墟で研究していたのだが……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'I came here to study, master the difficult morphing magic …</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　変身後の肉体に影響されて、自我を失ってしまっていた'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　But after morphing my body, I've lost myself'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -14988,19 +15029,19 @@
 					<EventArg Type="Str">[\x01]DELETECG|敵|1|500|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'しかし、君に殴られて気絶しているうちに肉体の支配を取り戻せた。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'However, you've brought my unconscious body back to life。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　おかげで術を解ける。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Thanks to you I could undo the magic。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　これが私の、本当の姿だ'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　This is my true form'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15036,13 +15077,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"私の名は、大魔術師カドモス……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"I am the great wizard Cadmos……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　賢者の島マナリスの導師の一人"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The single priest of Manaris, the island of the sages"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15057,7 +15098,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ぷはぁっ！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Puhaa-！？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15072,13 +15113,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"闇王たちに対抗するため、禁断の変身術を研究したが、私の手には</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"To resist the dark lord's army, I've began research on the</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">余る術だったようだ……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">forbidden morphing magic, while I still had magic left……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15093,13 +15134,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"おんなじ！　元に戻ってもおんなじ顔！！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"It's the same！　His face is the same after morphing back！！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　あははっあははははははははははははっ！！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Ahaha- Ahahahahahahahahahaha-！！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15114,31 +15155,31 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ひとつ忠告しておきたい。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"I would like to give you one word of advice。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　島で学んだ若者の一人が、悪の道に走り闇王の配下になってしまった"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　There is a young man on the island, mislead by the dark lord"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"もし戦う機会があったら、攻撃魔法への抵抗装備や、呪縛魔法の解除手段が</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"If you ever have to fight him, you need attack magic,</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">必要だろう。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">defensive armor and cancellation spells at your disposal.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　それと、あやつに対しては精神に働きかける力は効果がない"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Also, spirit influencing powers have no effect on him"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15156,13 +15197,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"い、いけない――初対面の人の顔見て笑うなんて……</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Oh- oh no, I shouldn't laugh right in front of him……</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　がまん……がまん……ぷふっ……！！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　I have to endure……endure it……Hehe-……！！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15177,13 +15218,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"僅かだが、私を救ってくれた礼を渡そう。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"It's not much, but here's something for saving me。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　受け取ってくれ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Please take it"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15295,7 +15336,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"イヤ……近づかないで……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Noo……Don't come closer……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15313,7 +15354,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"えっ……何をするの……？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Eh……What are you doing……？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15325,7 +15366,7 @@
 					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\魔王魂-ワンポイント07.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　もるんもるんもるんもるん！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Wiggle wiggle wiggle！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15340,7 +15381,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"うひいいいっ！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Uhiii-！？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15352,7 +15393,7 @@
 					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\voice020.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　ぶるぶるぶるぶるぶるぶる！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Brrrr brrr brrrrrr！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15367,13 +15408,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"なっ、なに！？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Wha-what！？</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　私、いったいナニをされてるの！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　What are you trying to do to me！？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15385,13 +15426,13 @@
 					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\fall00.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　パオーン！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Toooooot！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　バルンバルンバルン！！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Baloon baloon baloon！！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15406,13 +15447,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"あっひゃひゃひゃっ！？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Ah-hyahyahyahya！？</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　や、やめ……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Please, please stop……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15424,7 +15465,7 @@
 					<EventArg Type="Str">[\x01]PLAYSND|効果音\演出音\魔王魂-エフェクト10.ogg|SE|NORMAL|1000|0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　ぽみょりぽみょらーーーー！！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Pomyori pomyoraーーーー！！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15439,7 +15480,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"あひょううううううううううううううっ！？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"AHYOOOOOOOOOOOOOOOOOO！？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -15448,7 +15489,7 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　Feenaはアレされ続けた……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　For Feena, this carried on for a while……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16009,13 +16050,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","200◆◆男.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"では、失礼。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Well then, excuse me。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　旅の無事を祈っている"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　I pray for your safety on your travels"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16042,7 +16083,7 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　もう行ったよ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　He's already gone"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16060,13 +16101,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……はっ……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……ha-……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　何を言っていたのか、聞いてなかった……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Whatever he was saying, I wasn't listening……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16272,7 +16313,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","303◆◆獣.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……グルル……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……Grrrr……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16296,7 +16337,7 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　このオオカミ……強そうです！"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　This wolf……it looks strong！"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16511,7 +16552,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1308" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -16551,7 +16593,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1311" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -16917,13 +16960,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"ここは……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"This is……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　庭園……？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　a garden……？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16932,7 +16975,7 @@
 					<EventArg Type="Str">[\x01]NAMELABEL|</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　野生化した花々が、古い花壇や噴水跡を覆っていた。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Wild flowers have overgrown the flowerbed and the fountain。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16956,13 +16999,13 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　ずいぶんと……変わってしまった……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　This place……has changed quite a lot……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"もう……何も残っていない…………"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Nothing……seems to be left…………"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -16983,7 +17026,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"…………デメア様？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"…………Medea？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -17001,13 +17044,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","002★★★デメア.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"昔……ここには、王の離宮があった。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Once……this was a remote residence of the king。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そして……王女が一人、隠れ住んでいた……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　And the queen……she lived here alone……hidden……"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -17176,7 +17219,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1355" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -17216,7 +17260,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1358" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -17726,7 +17771,7 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　――竜がこの国を襲っていた時代――。</EventArg>
+					<EventArg Type="CharString" ExtraData="0">　――When the dragon attacked this country――。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17735,34 +17780,19 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　その頃、供犠姫になるのは王の血族の義務であり、特権だった。</EventArg>
+					<EventArg Type="CharString" ExtraData="0">　Then, the princess sacrifice was the royal families' duty。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　供犠姫の地位を独占し、危機のときに人間たちを守ってみせることが、</EventArg>
+					<EventArg Type="CharString" ExtraData="0">　Monopolizing the position of the sacrifice, they held the</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">王たちの権威の源泉だったから。</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　しかし王は、幼い娘を生贄にするのが忍びなくて、王子だと嘘を付き、</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">この庭園に隠して育てた……。</EventArg>
+					<EventArg Type="CharString" ExtraData="0">power to help the people in crisis to establish their authority.</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17771,22 +17801,13 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　別の供犠姫が立てられもしたが、彼女たちは聖域に降りたまま帰らず、</EventArg>
+					<EventArg Type="CharString" ExtraData="0">　But the king couldn't endure having his daughter taken,</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">精霊神が降臨することもなかった。</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　そのまま時は経ち、竜は国を焼き続けた。</EventArg>
+					<EventArg Type="CharString" ExtraData="0">so he lied about her. She grew up hidden in this garden……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17795,7 +17816,31 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="0">　多くの街が燃え……多くの人間が焼け死に……それより多くが飢えて死んだ。</EventArg>
+					<EventArg Type="CharString" ExtraData="0">　Other sacrifices were chosen. However the girls who rose to</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">the sanctuary without return didn't make the spirits descend。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">　Time passed while the dragon continued branding the country。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="0">　Villages were lit up, humans burned and hungered to death。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17813,40 +17858,25 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　王女が外の世界の惨状を知ったのは……島の漁村が竜に襲われてからだった。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　When the queen heard it, the island has already been razed。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　淡く心を通わせていた漁師の少年が、竜の火に焼かれて死んだ……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The fisherboy who confessed to her was burned by the dragon…。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　王女は……供犠姫になるため、島を出た。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The queen……left the island to become prince sacrifice。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　父に黙ったまま。これが父王のためだとも思って。</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　でも……王に騙されていたことを知った民は、怒り狂った。</EventArg>
-				</Event>
-				<Event Command="Return">
-					<EventArg Type="Byte">0</EventArg>
-				</Event>
-				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　供犠姫が現れたことを素直に喜ぶには、あんまりに多くの人間が死んでいた。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　She didn't tell her father, thinking it would be the best。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17855,19 +17885,34 @@
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'どうして今更……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　But……the people who found out about the lie were raging。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'何故もっと早く言わなかったんだ……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The sacrifice princess's appearance barely caused rejoice。</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'ばれなければ隠し通すつもりだったのか。国が滅びるまで！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Why now, after such a long time……so many people died'</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">'Why weren't we told earlier……'</EventArg>
+				</Event>
+				<Event Command="Return">
+					<EventArg Type="Byte">0</EventArg>
+				</Event>
+				<Event Command="String">
+					<EventArg Type="CharString" ExtraData="50">'You would've hidden till the country's perished, right！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
@@ -17952,37 +17997,37 @@
 		<Item Command="TextIns" Indent="0" Mute="0" NotUpdate="0" Color="0" Id="1408" Diff="1">
 			<EventBlock Name="TpWord102" HasFurigana="1">
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　……王は城壁から吊され……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　……The king was hanged at the castle walls……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　王女は裸に剥かれて、精霊神殿に引き立てられていった……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　The queen was bared naked and taken to the spirits' temple……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'やめて……！　父上！　父上ぇ！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Stop……！　Father！　Faather！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'黙れ！　貴様の親父は死んだんだよ！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Shut up！　Your father's dead, bitch！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'……どうして……僕は……僕は、君たちのためにと思って……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'……Why……I……I wanted to help you……for your sake……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'そうか、なら皆のために頑張ってもらおうか！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Is that so？ Then do your best for our sake！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -17991,91 +18036,91 @@
 					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\48デメア過去A.gal|NORMAL|1|1000|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　馬車の中で……道すがらの村ごとに……王女は犯された。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　In the carriage driving to the villages……she was raped。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　最初に誰に抱かれたかなんて、覚えてもいない……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　She can't even remember who had her first……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'ひッ……痛い！　痛い！　抜いてぇ！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Hi-……Ow！　Ow！　Take it ouut！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　お願いだからぁッ…………'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Please…………'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　破瓜の傷も塞がらないうちに、立て続けに陵辱され……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　They've raped her one after another, ignoring her wounds……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　衆人環視の広場で、排泄を強制され……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Forcing her to excrete right in front of a large crowd……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'どうした家畜のお姫様。いや王子様か？</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'What's up, cattle princess？ Regret being of royal blood ？</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　ひどい泣き顔だな？'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　That's some terrible crying face, huh？'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'うるさいッ……！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Shut up……！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　僕は……家畜じゃ、ないっ……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　I am……not……cattle……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'まだ立場が分かってないようだな。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Guess you still don't know your place, huh。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　もう一周くらい回してやるか'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Let's have you drive one more round'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'……いやああッ……許してぇ……！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'……Nooooo……Please forgive mee……！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　厩舎に縄で繋がれ、町じゅうの人間に輪姦され……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　They bound her to the stables letting folks gang rape her……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　……犬のように引き回され、精液と汚物まみれの残飯を食べさせられて……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　……Being led like a dog, fed semen and dirt covered junk……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18084,67 +18129,67 @@
 					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\48デメア過去B02.gal|NORMAL|1|1000|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'皆、よく今まで耐えてくれた！　新たな供犠姫が現れた！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Everyone, thank you so far. A new sacrifice has appeared！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　この者を生贄として、デメアの降臨を願う！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　With her as a sacrifice, let's ask Demea for a descent！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　精霊神の力が、かの邪竜を倒すだろう！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　With the power of the spirits, we can kill the dragon！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　オオオオオオオオオオッ！！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Ooooooooooooohh！！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'……あぁ……ぁ……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'……Aah……ah……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'売女にふさわしい格好だな。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'You're appearance suits you for a whore。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　裸じゃ可哀想だから、俺たちからの贈り物だ。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Naked, pitiable, and with this our offering。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　有り難く思えよ'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Be thankful……But man, what a waste…'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'だが勿体ないな。もう数年したら良い女になってたかも知れないのに'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'We could have made you into a proper woman with a few years'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'お前、まだ犯し足りないのか？'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Bastard, still not satisfied with the rape？'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'……お前たち……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'……You people……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18153,73 +18198,73 @@
 					<EventArg Type="Str">[\x01]CHANGECG|前景|グラフィック\ビジュアル\H画像\48デメア過去B03.gal|NORMAL|1|200|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'許さない……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'I won't forgive you……'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'ん、なんか言ったか？'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Mhm, did you say something？'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'僕は……お前たちを、許さない……'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'I won't……forgive……you'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'……お前たちに告げる……</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'……I'll tell you this……</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　この国も……この世界も……</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　This country, no……this world……</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　僕の火に焼かれ、燃やし尽くされ、滅びるだろう！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　By my blazing flames you shall burn, till nothing remains！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">'黙らせろ！</EventArg>
+					<EventArg Type="CharString" ExtraData="50">'Shut your mouth！</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　さっさと穴の中に落とせ！'</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Hurry up and throw her into the hole！'</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　血と精液が膣から溢れ続ける、半死半生の状態で……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Overflowing with blood and semen, half dead half alive……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　娼婦の衣装を着せられ、申し訳程度の護身用に短剣を持たされて、</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Wearing thin garbs, a weak excuse of defense, and a knife,</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">デメアの聖域に放り込まれた……。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">she've been thrown into Demea's sanctuary……。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そして……降臨した精霊は、竜との戦いの中、国をすべて焼き尽くして……</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　……The spirits burned down the country alongside the dragon</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18249,13 +18294,13 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"デメア様……やめて……</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Demea……stop……</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　もう、やめて下さい…………"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Please, stop…………"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18288,7 +18333,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","001★★★主人公.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……その話は……いったい、誰の……？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……This story……just, whose was it……？"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18303,7 +18348,7 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","002★★★デメア.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……さあねえ"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……who knows"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18312,25 +18357,25 @@
 					<EventArg Type="Str">[\x01]CREATECG|サポート|グラフィック\NPC\デメア\デメア通常ニヤリ.gal|NORMAL|#1|L|B|19|1|0|0|0||1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"というか、僕の話を真面目に受け取らなくても。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"I mean, you don't have to take this story so seriously。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　またいつもみたいに、適当なこと言ってからかってるのかもしれないよ？"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Just like always, I might be telling you this story only……"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……だから、気にしないで。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"Since it fits the sitation？……So, don't mind it too much。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　そんな顔されても困るから"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　I don't want to have you make this face"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
@@ -18751,31 +18796,31 @@
 					<EventArg Type="Str">DBDirectGetStr("DB名前代替","画像","218◆◆吟遊詩人.gal",FALSE,FALSE,"文字列","")</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"……私は、さまよえる吟遊詩人。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"……I am a wandering minstrel。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　私の歌には人々の記憶を消してしまう、呪われた力があります"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　My songs are cursed, they remove people's memories"</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">1</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">"もし望むのなら、忌まわしい記憶を消すことも、あなたについての噂話を</EventArg>
+					<EventArg Type="CharString" ExtraData="50">"If desired, I could remove any of your unpleasant memories,</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">人々の記憶から消すこともできます。</EventArg>
+					<EventArg Type="CharString" ExtraData="50">as well as any bad rumors of you from the peoples' minds。</EventArg>
 				</Event>
 				<Event Command="Return">
 					<EventArg Type="Byte">0</EventArg>
 				</Event>
 				<Event Command="String">
-					<EventArg Type="CharString" ExtraData="50">　相応の代価は頂きますが……"</EventArg>
+					<EventArg Type="CharString" ExtraData="50">　Though this will cost you an adequate amount……"</EventArg>
 				</Event>
 				<Event Command="Event">
 					<EventArg Type="Str">[\x01]PAUSE|</EventArg>
@@ -19006,7 +19051,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1456" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
@@ -19046,7 +19092,8 @@
 		<Item Command="Calc" Indent="0" Mute="0" NotUpdate="1" Color="0" Id="1459" Diff="1">
 			<Array Name="Calc">
 				<Param Name="____0" Calc="" Type="1">
-					<Str Name="">
+					<Str Name="">
+
 </Str>
 				</Param>
 				<Param Name="____1" Calc="AddDelimiter" Type="11">
